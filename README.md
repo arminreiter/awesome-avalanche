@@ -19,14 +19,7 @@ coverY: 0
 
 ### Bridges
 
-| Title       | URL                                                                  | Twitter/X                                                      |
-| ----------- | -------------------------------------------------------------------- | -------------------------------------------------------------- |
-| Core Bridge | [https://core.app/bridge/](https://core.app/bridge/)                 | [https://x.com/coreapp](https://x.com/coreapp)                 |
-| DeBridge    | [https://app.debridge.finance/](https://app.debridge.finance/)       | [https://x.com/deBridgeFinance](https://x.com/deBridgeFinance) |
-| Stargate    | [https://stargate.finance](https://stargate.finance)                 | [https://x.com/StargateFinance](https://x.com/StargateFinance) |
-| Jumper      | [https://jumper.exchange/](https://jumper.exchange/)                 | [https://x.com/JumperExchange](https://x.com/JumperExchange)   |
-| Synapse     | [https://www.synapseprotocol.com/](https://www.synapseprotocol.com/) | [https://x.com/SynapseProtocol](https://x.com/SynapseProtocol) |
-| Symbiosis   | [https://app.symbiosis.finance/](https://app.symbiosis.finance/)     | [https://x.com/symbiosis\_fi](https://x.com/symbiosis_fi)      |
+<table><thead><tr><th>Title</th><th width="268">URL</th><th>Twitter/X</th></tr></thead><tbody><tr><td>Core Bridge</td><td><a href="https://core.app/bridge/">https://core.app/bridge/</a></td><td><a href="https://x.com/coreapp">https://x.com/coreapp</a></td></tr><tr><td>DeBridge</td><td><a href="https://app.debridge.finance/">https://app.debridge.finance/</a></td><td><a href="https://x.com/deBridgeFinance">https://x.com/deBridgeFinance</a></td></tr><tr><td>Stargate</td><td><a href="https://stargate.finance">https://stargate.finance</a></td><td><a href="https://x.com/StargateFinance">https://x.com/StargateFinance</a></td></tr><tr><td>Jumper</td><td><a href="https://jumper.exchange/">https://jumper.exchange/</a></td><td><a href="https://x.com/JumperExchange">https://x.com/JumperExchange</a></td></tr><tr><td>Synapse</td><td><a href="https://www.synapseprotocol.com/">https://www.synapseprotocol.com/</a></td><td><a href="https://x.com/SynapseProtocol">https://x.com/SynapseProtocol</a></td></tr><tr><td>Symbiosis</td><td><a href="https://app.symbiosis.finance/">https://app.symbiosis.finance/</a></td><td><a href="https://x.com/symbiosis_fi">https://x.com/symbiosis_fi</a></td></tr></tbody></table>
 
 ### DEXs
 
