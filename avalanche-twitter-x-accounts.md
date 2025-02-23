@@ -50,6 +50,8 @@ coverY: 0
 * [https://x.com/fernandoavax](https://x.com/fernandoavax)
 * [https://x.com/took\_ur\_](https://x.com/took_ur_)
 * [https://x.com/Cee\_ynthia](https://x.com/Cee_ynthia)
+* [https://x.com/cryptokelt](https://x.com/cryptokelt)
+* [https://x.com/lisavax1](https://x.com/lisavax1)
 * [https://x.com/martin\_eckardt](https://x.com/martin_eckardt)
 * [https://x.com/ashngmi](https://x.com/ashngmi)
 * [https://x.com/MeagFitzgerald](https://x.com/MeagFitzgerald)
