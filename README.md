@@ -4,9 +4,25 @@ description: >-
   Members and other Avalanche resources.
 cover: .gitbook/assets/avalanche_adoption.jpg
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Awesome Avalanche
+
+A curated list of amazing Avalanche DApps, NFTs, Games, Memes, Community Members and many more Avalanche resources. If you wish to contribute, ping me on [Twitter/X](https://x.com/arminreiter) or create a [pull request](https://github.com/arminreiter/awesome-avalanche).
 
 ### Wallets
 

@@ -73,4 +73,4 @@ coverY: 0
 * [https://x.com/AvalancheFDN](https://x.com/AvalancheFDN)
 * [https://x.com/AvalancheIntern](https://x.com/AvalancheIntern)
 
-...and it would be nice if you follow the creator ofthis list: [https://x.com/arminreiter](https://x.com/arminreiter)
+...and it would be nice if you follow the creator of this list: [https://x.com/arminreiter](https://x.com/arminreiter)

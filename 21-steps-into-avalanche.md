@@ -1,4 +1,5 @@
 ---
+description: A quick, 21-step guide for web3 people joining the Avalanche ecosystem
 cover: .gitbook/assets/Twitter_Banner_Simple_Black_1500x500.png
 coverY: 0
 layout:
