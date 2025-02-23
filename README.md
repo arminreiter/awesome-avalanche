@@ -103,6 +103,7 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 | KET ($KET)      | [https://www.ketboard.xyz/](https://www.ketboard.xyz/)   | [https://x.com/ketfromwyoming](https://x.com/ketfromwyoming) |
 | COQ AI          | [https://ai.coq.xyz/](https://ai.coq.xyz/)               | [https://x.com/COQ\_AI](https://x.com/COQ_AI)                |
 | DQN AI 404      | [https://404.dqn.red/](https://404.dqn.red/)             | [https://x.com/dqn404](https://x.com/dqn404)                 |
+| GoKite AI       | [https://gokite.ai/](https://gokite.ai/)                 | [https://x.com/GoKiteAI](https://x.com/GoKiteAI)             |
 
 ### Memecoins
 
