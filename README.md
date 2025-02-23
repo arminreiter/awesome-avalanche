@@ -195,6 +195,10 @@ others:
 * Avalanche Bounties: [https://app.dework.xyz/avalanche/](https://app.dework.xyz/avalanche/)
 * Avalanche Summit: [https://www.avalanchesummit.com/](https://www.avalanchesummit.com/)
 
+### Twitter/X accounts
+
+see: [Avalanche Twitter/X Accounts](avalanche-twitter-x-accounts.md)
+
 ### Learn
 
 * Builders Hub: [https://build.avax.network/](https://build.avax.network/)

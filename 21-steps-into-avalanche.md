@@ -1,4 +1,5 @@
 ---
+cover: .gitbook/assets/Twitter_Banner_Simple_Black_1500x500.png
 coverY: 0
 layout:
   cover:
@@ -16,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 21-step Avalanche Guide for Web3 folks
+# 21-steps into Avalanche
 
 You want to...
 

@@ -1,10 +1,10 @@
 ---
-description: Twitter/X accounts that worth to follow
+description: Twitter/X accounts worth to follow
+cover: .gitbook/assets/Twitter_Banner_Simple_Red_1500x500.png
+coverY: 0
 ---
 
 # Avalanche Twitter/X Accounts
-
-## Avalanche X Profiles to follow
 
 * [https://x.com/avery\_bartlett](https://x.com/avery_bartlett)
 * [https://x.com/demirelo](https://x.com/demirelo)
@@ -61,3 +61,5 @@ description: Twitter/X accounts that worth to follow
 * [https://x.com/yellowcatdao](https://x.com/yellowcatdao)
 * [https://x.com/ketfromwyoming](https://x.com/ketfromwyoming)
 * [https://x.com/Wink\_Realm](https://x.com/Wink_Realm)
+
+Creator of awesome-avalanche gitbook: [https://x.com/arminreiter ](https://x.com/arminreiter)
