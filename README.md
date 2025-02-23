@@ -78,18 +78,19 @@ Check out the collections on salvor [https://salvor.io/](https://salvor.io/) or 
 
 Below is a curated, subjective selection of NFTs chosen based on factors such as volume, community engagement, and overall vibes. For the most current information, we recommend checking the collections on NFT marketplaces.
 
-| Title          | URL                                                    | Twitter/X                                                     |
-| -------------- | ------------------------------------------------------ | ------------------------------------------------------------- |
-| Dokyo          | [https://discord.gg/dokyo](https://discord.gg/dokyo)   | [https://x.com/dokyoworld](https://x.com/dokyoworld)          |
-| Steady         | [https://www.steadyyy.com/](https://www.steadyyy.com/) | [https://x.com/SteadyNFT\_](https://x.com/SteadyNFT_)         |
-| NoChillio      | [https://nochill.io](https://nochill.io)               | [https://x.com/NOCHILLIONAIRE](https://x.com/NOCHILLIONAIRE)  |
-| Salvors        | [https://salvor.io](https://salvor.io)                 | [https://x.com/salvor\_io](https://x.com/salvor_io)           |
-| Chikn          | [https://chikn.farm/](https://chikn.farm/)             | [https://x.com/chikn\_nft](https://x.com/chikn_nft)           |
-| FerdyFrens     |                                                        | [https://x.com/ferdyfrens](https://x.com/ferdyfrens)          |
-| Woofy          | [https://cozyverse.xyz/](https://cozyverse.xyz/)       | [https://x.com/cozyversexyz](https://x.com/cozyversexyz)      |
-| DQN            | [https://dqn.red/](https://dqn.red/)                   | [https://x.com/DQNorg](https://x.com/DQNorg)                  |
-| Kimbros        | [https://kimbros.xyz/](https://kimbros.xyz/)           | [https://x.com/KimbrosNFT](https://x.com/KimbrosNFT)          |
-| Pepe Portraits |                                                        | [https://x.com/PePe\_Portraits](https://x.com/PePe_Portraits) |
+| Title                            | URL                                                    | Twitter/X                                                     |
+| -------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------- |
+| Dokyo                            | [https://discord.gg/dokyo](https://discord.gg/dokyo)   | [https://x.com/dokyoworld](https://x.com/dokyoworld)          |
+| Steady                           | [https://www.steadyyy.com/](https://www.steadyyy.com/) | [https://x.com/SteadyNFT\_](https://x.com/SteadyNFT_)         |
+| NoChillio                        | [https://nochill.io](https://nochill.io)               | [https://x.com/NOCHILLIONAIRE](https://x.com/NOCHILLIONAIRE)  |
+| Salvors                          | [https://salvor.io](https://salvor.io)                 | [https://x.com/salvor\_io](https://x.com/salvor_io)           |
+| Chikn                            | [https://chikn.farm/](https://chikn.farm/)             | [https://x.com/chikn\_nft](https://x.com/chikn_nft)           |
+| FerdyFrens                       |                                                        | [https://x.com/ferdyfrens](https://x.com/ferdyfrens)          |
+| Woofy                            | [https://cozyverse.xyz/](https://cozyverse.xyz/)       | [https://x.com/cozyversexyz](https://x.com/cozyversexyz)      |
+| DQN                              | [https://dqn.red/](https://dqn.red/)                   | [https://x.com/DQNorg](https://x.com/DQNorg)                  |
+| Kimbros                          | [https://kimbros.xyz/](https://kimbros.xyz/)           | [https://x.com/KimbrosNFT](https://x.com/KimbrosNFT)          |
+| Pepe Portraits                   |                                                        | [https://x.com/PePe\_Portraits](https://x.com/PePe_Portraits) |
+| The Face (1966) by Pablo Picasso | [https://bensibox.art/](https://bensibox.art/)         | [https://x.com/bensibox](https://x.com/bensibox)              |
 
 ### AI
 
@@ -156,17 +157,20 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 
 ### Gaming
 
-| Title         | URL                                                        | Twitter/X                                                    |
-| ------------- | ---------------------------------------------------------- | ------------------------------------------------------------ |
-| Off The Grid  | [https://gameoffthegrid.com/](https://gameoffthegrid.com/) | [https://x.com/playoffthegrid](https://x.com/playoffthegrid) |
-| Shatterline   | [https://www.shatterline.gg/](https://www.shatterline.gg/) | [https://x.com/ShatterlineFPS](https://x.com/ShatterlineFPS) |
-| Shrapnel      | [https://www.shrapnel.com/](https://www.shrapnel.com/)     | [https://x.com/playSHRAPNEL](https://x.com/playSHRAPNEL)     |
-| Pulsar        | [https://pulsar.game/](https://pulsar.game/)               | [https://x.com/PulsarGame](https://x.com/PulsarGame)         |
-| BloodLoop     | [https://www.bloodloop.com/](https://www.bloodloop.com/)   | [https://x.com/BloodLoopGAME](https://x.com/BloodLoopGAME)   |
-| MaplestoryU   | [https://msu.io/](https://msu.io/)                         | [https://x.com/MaplestoryU](https://x.com/MaplestoryU)       |
-| DeFi Kingdoms | [https://defikingdoms.com/](https://defikingdoms.com/)     | [https://x.com/DeFiKingdoms](https://x.com/DeFiKingdoms)     |
-| DomiOnline    | [https://domionline.io/](https://domionline.io/)           | [https://x.com/DomiOnline](https://x.com/DomiOnline)         |
-| Spellborne    | [https://www.spellborne.gg/](https://www.spellborne.gg/)   | [https://x.com/spellbornegame](https://x.com/spellbornegame) |
+| Title                | URL                                                                | Twitter/X                                                       |
+| -------------------- | ------------------------------------------------------------------ | --------------------------------------------------------------- |
+| Off The Grid         | [https://gameoffthegrid.com/](https://gameoffthegrid.com/)         | [https://x.com/playoffthegrid](https://x.com/playoffthegrid)    |
+| Shatterline          | [https://www.shatterline.gg/](https://www.shatterline.gg/)         | [https://x.com/ShatterlineFPS](https://x.com/ShatterlineFPS)    |
+| Shrapnel             | [https://www.shrapnel.com/](https://www.shrapnel.com/)             | [https://x.com/playSHRAPNEL](https://x.com/playSHRAPNEL)        |
+| Pulsar               | [https://pulsar.game/](https://pulsar.game/)                       | [https://x.com/PulsarGame](https://x.com/PulsarGame)            |
+| BloodLoop            | [https://www.bloodloop.com/](https://www.bloodloop.com/)           | [https://x.com/BloodLoopGAME](https://x.com/BloodLoopGAME)      |
+| MaplestoryU          | [https://msu.io/](https://msu.io/)                                 | [https://x.com/MaplestoryU](https://x.com/MaplestoryU)          |
+| DeFi Kingdoms        | [https://defikingdoms.com/](https://defikingdoms.com/)             | [https://x.com/DeFiKingdoms](https://x.com/DeFiKingdoms)        |
+| DomiOnline           | [https://domionline.io/](https://domionline.io/)                   | [https://x.com/DomiOnline](https://x.com/DomiOnline)            |
+| Spellborne           | [https://www.spellborne.gg/](https://www.spellborne.gg/)           | [https://x.com/spellbornegame](https://x.com/spellbornegame)    |
+| The Pit              | [https://thepitgame.xyz/](https://thepitgame.xyz/)                 | [https://x.com/ThePitGame](https://x.com/ThePitGame)            |
+| Castle Of Blackwater | [https://castleofblackwater.com/](https://castleofblackwater.com/) | [https://x.com/Blackwater\_Town](https://x.com/Blackwater_Town) |
+| WolvesDAO            | [https://wolvesdao.io/](https://wolvesdao.io/)                     | [https://x.com/WolvesDAO](https://x.com/WolvesDAO)              |
 
 ### L1 Launchpads
 
@@ -196,6 +200,7 @@ others:
 * Avalanche Bounties: [https://app.dework.xyz/avalanche/](https://app.dework.xyz/avalanche/)
 * Avalanche Summit: [https://www.avalanchesummit.com/](https://www.avalanchesummit.com/)
 * Team1/Ambassador Events: [https://lu.ma/user/usr-DrrXj8SDE9OLNi6](https://lu.ma/user/usr-DrrXj8SDE9OLNi6)
+* Cookout Club: [https://x.com/cookoutclubxyz](https://x.com/cookoutclubxyz) / [https://cookoutclub.xyz/](https://cookoutclub.xyz/)
 
 ### Twitter/X accounts
 
