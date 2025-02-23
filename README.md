@@ -195,6 +195,7 @@ others:
 * Avalanche Team1 Blog: [https://www.team1.blog/](https://www.team1.blog/)
 * Avalanche Bounties: [https://app.dework.xyz/avalanche/](https://app.dework.xyz/avalanche/)
 * Avalanche Summit: [https://www.avalanchesummit.com/](https://www.avalanchesummit.com/)
+* Team1/Ambassador Events: [https://lu.ma/user/usr-DrrXj8SDE9OLNi6](https://lu.ma/user/usr-DrrXj8SDE9OLNi6)
 
 ### Twitter/X accounts
 
