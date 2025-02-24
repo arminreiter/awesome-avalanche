@@ -140,6 +140,17 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 | NumberGoUpTech ($TECH) | [https://techimproving.com/](https://techimproving.com/)     | [https://x.com/NumberGoUpTech](https://x.com/NumberGoUpTech)   |
 | Wabbit                 | [https://wabbit.meme](https://wabbit.meme)                   | [https://x.com/WABBIT\_COIN](https://x.com/WABBIT_COIN)        |
 
+### ShameFi / AttentionFi
+
+| Title          | URL                                                    | Twitter/X                                                      |
+| -------------- | ------------------------------------------------------ | -------------------------------------------------------------- |
+| KET ($KET)     | [https://www.ketboard.xyz/](https://www.ketboard.xyz/) | [https://x.com/yellowcatdao](https://x.com/yellowcatdao)       |
+| WINK ($WINK)   | [https://www.winkwall.xyz/](https://www.winkwall.xyz/) | [https://x.com/Wink\_Realm](https://x.com/Wink_Realm)          |
+| WAIFU ($WAIFU) | [https://www.weebsite.xyz/](https://www.weebsite.xyz/) | [https://x.com/ScarletWaifuDAO](https://x.com/ScarletWaifuDAO) |
+| Rest in Piss   | [https://restinpiss.xyz/](https://restinpiss.xyz/)     | [https://x.com/moneyduplos](https://x.com/moneyduplos)         |
+
+
+
 ### Launchpads
 
 | Title             | URL                                                  | Twitter/X                                                    |
