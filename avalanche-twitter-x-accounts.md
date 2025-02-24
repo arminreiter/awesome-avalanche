@@ -52,6 +52,7 @@ coverY: 0
 * [https://x.com/that\_techieboy](https://x.com/that_techieboy)
 * [https://x.com/fernandoavax](https://x.com/fernandoavax)
 * [https://x.com/took\_ur\_](https://x.com/took_ur_)
+* [https://x.com/bubits\_](https://x.com/bubits_)
 * [https://x.com/WojakSatoshi](https://x.com/WojakSatoshi)
 * [https://x.com/PolyPup1](https://x.com/PolyPup1)
 * [https://x.com/Promise\_wils](https://x.com/Promise_wils)
