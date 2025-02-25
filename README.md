@@ -22,7 +22,7 @@ layout:
 
 # Awesome Avalanche
 
-A curated list of amazing Avalanche DApps, NFTs, Games, Memes, Community Members and many more Avalanche resources. If you wish to contribute, ping me on [Twitter/X](https://x.com/arminreiter) or create a [pull request](https://github.com/arminreiter/awesome-avalanche).
+[Awesome Avalanche ](https://axr.gitbook.io/awesome-avalanche/)is a curated list of amazing Avalanche DApps, NFTs, Games, Memes, Community Members and many more Avalanche resources. If you wish to contribute, ping me on [Twitter/X](https://x.com/arminreiter) or create a [pull request](https://github.com/arminreiter/awesome-avalanche).
 
 ### Wallets
 
