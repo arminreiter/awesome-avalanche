@@ -182,6 +182,20 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 | Snowscan           | [https://snowscan.xyz/](https://snowscan.xyz/)                 | [https://x.com/SnowScanHQ](https://x.com/SnowScanHQ)           |
 | Avascan            | [https://avascan.info/](https://avascan.info/)                 | [https://x.com/AvascanExplorer](https://x.com/AvascanExplorer) |
 
+### Stats, Explorers, L1
+
+<table><thead><tr><th width="194">Title</th><th>URL</th><th>Twitter/X</th></tr></thead><tbody><tr><td>Snowpeer</td><td><a href="https://snowpeer.io/">https://snowpeer.io/</a></td><td><a href="https://x.com/snowpeerio">https://x.com/snowpeerio</a></td></tr><tr><td>Avalanche Stats</td><td><a href="https://stats.avax.network/dashboard/overview/">https://stats.avax.network/dashboard/overview/</a></td><td><a href="https://x.com/avax">https://x.com/avax</a></td></tr><tr><td>L1 Beat</td><td><a href="https://l1beat.io/">https://l1beat.io/</a></td><td><a href="https://x.com/l1beat_io">https://x.com/l1beat_io</a></td></tr><tr><td>Frosty Metrics</td><td><a href="https://frostymetrics.com/">https://frostymetrics.com/</a></td><td><a href="https://x.com/frostymetrics">https://x.com/frostymetrics</a></td></tr></tbody></table>
+
+
+
+### L1 Launchpads
+
+| Title                   | URL                                                                                          | Twitter/X                                                    |
+| ----------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| AvaCloud                | [https://www.avacloud.io/](https://www.avacloud.io/)                                         | [https://x.com/AvaCloud](https://x.com/AvaCloud)             |
+| GoGoPool                | [https://l1s.gogopool.com/](https://l1s.gogopool.com/)                                       | [https://x.com/GoGoPool\_](https://x.com/GoGoPool_)          |
+| Builder Hub L1 Launcher | [https://build.avax.network/tools/l1-launcher](https://build.avax.network/tools/l1-launcher) | [https://x.com/AvaxDevelopers](https://x.com/AvaxDevelopers) |
+
 ### Gaming
 
 | Title                | URL                                                                | Twitter/X                                                       |
@@ -198,14 +212,6 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 | The Pit              | [https://thepitgame.xyz/](https://thepitgame.xyz/)                 | [https://x.com/ThePitGame](https://x.com/ThePitGame)            |
 | Castle Of Blackwater | [https://castleofblackwater.com/](https://castleofblackwater.com/) | [https://x.com/Blackwater\_Town](https://x.com/Blackwater_Town) |
 | WolvesDAO            | [https://wolvesdao.io/](https://wolvesdao.io/)                     | [https://x.com/WolvesDAO](https://x.com/WolvesDAO)              |
-
-### L1 Launchpads
-
-| Title                   | URL                                                                                          | Twitter/X                                                    |
-| ----------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| AvaCloud                | [https://www.avacloud.io/](https://www.avacloud.io/)                                         | [https://x.com/AvaCloud](https://x.com/AvaCloud)             |
-| GoGoPool                | [https://l1s.gogopool.com/](https://l1s.gogopool.com/)                                       | [https://x.com/GoGoPool\_](https://x.com/GoGoPool_)          |
-| Builder Hub L1 Launcher | [https://build.avax.network/tools/l1-launcher](https://build.avax.network/tools/l1-launcher) | [https://x.com/AvaxDevelopers](https://x.com/AvaxDevelopers) |
 
 ### Merchandise
 
@@ -233,7 +239,7 @@ others:
 
 see: [Avalanche Twitter/X Accounts](avalanche-twitter-x-accounts.md)
 
-### Learn
+### Education / Learn
 
 * Builders Hub: [https://build.avax.network/](https://build.avax.network/)
 * Avalanche Academy: [https://build.avax.network/academy](https://build.avax.network/academy)
@@ -244,6 +250,7 @@ see: [Avalanche Twitter/X Accounts](avalanche-twitter-x-accounts.md)
 * Avalanche Academy on YouTube: [https://www.youtube.com/playlist?list=PLRHl-ulWK4-GTJhSLF9omG2x\_qn7E1O7n](https://www.youtube.com/playlist?list=PLRHl-ulWK4-GTJhSLF9omG2x_qn7E1O7n)
 * Avalanche Developers: [https://www.avax.network/developers](https://www.avax.network/developers)
 * Avalanche Summit II recordings: [https://www.youtube.com/playlist?list=PLRHl-ulWK4-HfaHjnKsI1X55x1o\_WdClN](https://www.youtube.com/playlist?list=PLRHl-ulWK4-HfaHjnKsI1X55x1o_WdClN)
+* Core Education: [https://core.app/discover/education/](https://core.app/discover/education/)
 
 ### Websites
 
@@ -251,5 +258,6 @@ see: [Avalanche Twitter/X Accounts](avalanche-twitter-x-accounts.md)
 * Culture and Art: [https://www.cultureonavax.com/](https://www.cultureonavax.com/)
 * Conference: [https://www.avalanchesummit.com/](https://www.avalanchesummit.com/)
 * Overview of Projects: [https://core.app/discover/projects/](https://core.app/discover/projects/)
-* Avalanche Stats: [https://stats.avax.network/dashboard/overview/](https://stats.avax.network/dashboard/overview/)
-* Subnet Graph, ACPs etc.: [https://snowpeer.io/](https://snowpeer.io/)
+
+
+
