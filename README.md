@@ -182,9 +182,9 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 | Snowscan           | [https://snowscan.xyz/](https://snowscan.xyz/)                 | [https://x.com/SnowScanHQ](https://x.com/SnowScanHQ)           |
 | Avascan            | [https://avascan.info/](https://avascan.info/)                 | [https://x.com/AvascanExplorer](https://x.com/AvascanExplorer) |
 
-### Stats, Explorers, L1
+### Stats, Explorers, Data, L1s, ...
 
-<table><thead><tr><th width="194">Title</th><th>URL</th><th>Twitter/X</th></tr></thead><tbody><tr><td>Snowpeer</td><td><a href="https://snowpeer.io/">https://snowpeer.io/</a></td><td><a href="https://x.com/snowpeerio">https://x.com/snowpeerio</a></td></tr><tr><td>Avalanche Stats</td><td><a href="https://stats.avax.network/dashboard/overview/">https://stats.avax.network/dashboard/overview/</a></td><td><a href="https://x.com/avax">https://x.com/avax</a></td></tr><tr><td>L1 Beat</td><td><a href="https://l1beat.io/">https://l1beat.io/</a></td><td><a href="https://x.com/l1beat_io">https://x.com/l1beat_io</a></td></tr><tr><td>Frosty Metrics</td><td><a href="https://frostymetrics.com/">https://frostymetrics.com/</a></td><td><a href="https://x.com/frostymetrics">https://x.com/frostymetrics</a></td></tr></tbody></table>
+<table><thead><tr><th width="194">Title</th><th>URL</th><th>Twitter/X</th></tr></thead><tbody><tr><td>Snowpeer</td><td><a href="https://snowpeer.io/">https://snowpeer.io/</a></td><td><a href="https://x.com/snowpeerio">https://x.com/snowpeerio</a></td></tr><tr><td>Avalanche Stats</td><td><a href="https://stats.avax.network/dashboard/overview/">https://stats.avax.network/dashboard/overview/</a></td><td><a href="https://x.com/avax">https://x.com/avax</a></td></tr><tr><td>L1 Beat</td><td><a href="https://l1beat.io/">https://l1beat.io/</a></td><td><a href="https://x.com/l1beat_io">https://x.com/l1beat_io</a></td></tr><tr><td>Frosty Metrics</td><td><a href="https://frostymetrics.com/">https://frostymetrics.com/</a></td><td><a href="https://x.com/frostymetrics">https://x.com/frostymetrics</a></td></tr><tr><td>Dune</td><td><a href="https://dune.com/">https://dune.com/</a></td><td><a href="https://x.com/Dune">https://x.com/Dune</a></td></tr></tbody></table>
 
 
 
