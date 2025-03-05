@@ -78,6 +78,12 @@ layout:
 | Gyroscope      | [https://app.gyro.finance/](https://app.gyro.finance/)         | [https://x.com/gyrostable/](https://x.com/gyrostable/)        |
 | Upshift        | [https://avax.upshift.finance/](https://avax.upshift.finance/) | [https://x.com/upshift\_fi](https://x.com/upshift_fi)         |
 
+### TradFi
+
+| Title          | URL                                                              | Twitter/X                                              |
+| -------------- | ---------------------------------------------------------------- | ------------------------------------------------------ |
+| Avalanche Card | [https://www.avalanchecard.com/](https://www.avalanchecard.com/) | [https://x.com/TheAvaxCard](https://x.com/TheAvaxCard) |
+
 ### NFTs
 
 #### Marketplaces
@@ -110,17 +116,17 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 
 ### AI
 
-| Title           | URL                                                      | Twitter/X                                                    |
-| --------------- | -------------------------------------------------------- | ------------------------------------------------------------ |
-| Delaunch/AI9000 | [https://www.delaunch.ai/](https://www.delaunch.ai/)     | [https://x.com/delaunch](https://x.com/delaunch)             |
-| Velvet AI       | [https://velvetai.xyz/](https://velvetai.xyz/)           | [https://x.com/0xVelvetai](https://x.com/0xVelvetai)         |
-| AVAX AI         | [https://avaxai.org](https://avaxai.org)                 | [https://x.com/ai\_avalanche](https://x.com/ai_avalanche)    |
-| AIGG            | [https://www.aiggagent.com/](https://www.aiggagent.com/) | [https://x.com/aigg\_agent](https://x.com/aigg_agent)        |
-| Chad Wentworth  | [https://chadwentworth.com/](https://chadwentworth.com/) | [https://x.com/chadwentworth0](https://x.com/chadwentworth0) |
-| KET ($KET)      | [https://www.ketboard.xyz/](https://www.ketboard.xyz/)   | [https://x.com/ketfromwyoming](https://x.com/ketfromwyoming) |
-| COQ AI          | [https://ai.coq.xyz/](https://ai.coq.xyz/)               | [https://x.com/COQ\_AI](https://x.com/COQ_AI)                |
-| DQN AI 404      | [https://404.dqn.red/](https://404.dqn.red/)             | [https://x.com/dqn404](https://x.com/dqn404)                 |
-| GoKite AI       | [https://gokite.ai/](https://gokite.ai/)                 | [https://x.com/GoKiteAI](https://x.com/GoKiteAI)             |
+| Title               | URL                                                      | Twitter/X                                                    |
+| ------------------- | -------------------------------------------------------- | ------------------------------------------------------------ |
+| Delaunch/AI9000     | [https://www.delaunch.ai/](https://www.delaunch.ai/)     | [https://x.com/delaunch](https://x.com/delaunch)             |
+| Velvet AI           | [https://velvetai.xyz/](https://velvetai.xyz/)           | [https://x.com/0xVelvetai](https://x.com/0xVelvetai)         |
+| AVAX AI             | [https://avaxai.org](https://avaxai.org)                 | [https://x.com/ai\_avalanche](https://x.com/ai_avalanche)    |
+| AIGG                | [https://www.aiggagent.com/](https://www.aiggagent.com/) | [https://x.com/aigg\_agent](https://x.com/aigg_agent)        |
+| Chad Wentworth      | [https://chadwentworth.com/](https://chadwentworth.com/) | [https://x.com/chadwentworth0](https://x.com/chadwentworth0) |
+| KET ($KET)          | [https://www.ketboard.xyz/](https://www.ketboard.xyz/)   | [https://x.com/ketfromwyoming](https://x.com/ketfromwyoming) |
+| COQ AI              | [https://ai.coq.xyz/](https://ai.coq.xyz/)               | [https://x.com/COQ\_AI](https://x.com/COQ_AI)                |
+| DQN AI 404 ($ERROR) | [https://404.dqn.red/](https://404.dqn.red/)             | [https://x.com/dqn404](https://x.com/dqn404)                 |
+| GoKite AI           | [https://gokite.ai/](https://gokite.ai/)                 | [https://x.com/GoKiteAI](https://x.com/GoKiteAI)             |
 
 ### Memecoins
 
@@ -130,7 +136,7 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 | WINK ($WINK)           | [https://www.winkwall.xyz/](https://www.winkwall.xyz/)       | [https://x.com/Wink\_Realm](https://x.com/Wink_Realm)          |
 | Coq Inu ($COQ)         | [https://coqinu.com/](https://coqinu.com/)                   | [https://x.com/CoqInuAvax](https://x.com/CoqInuAvax)           |
 | NOCHILL ($NOCHILL)     | [https://nochill.io/](https://nochill.io/)                   | [https://x.com/nochillavax](https://x.com/nochillavax)         |
-| Blub                   | [https://www.blubtheblob.com/](https://www.blubtheblob.com/) | [https://x.com/BlubBlobCoin](https://x.com/BlubBlobCoin)       |
+| Blub ($BLUB)           | [https://www.blubtheblob.com/](https://www.blubtheblob.com/) | [https://x.com/BlubBlobCoin](https://x.com/BlubBlobCoin)       |
 | WAIFU ($WAIFU)         | [https://www.weebsite.xyz/](https://www.weebsite.xyz/)       | [https://x.com/ScarletWaifuDAO](https://x.com/ScarletWaifuDAO) |
 | Big ($BIG)             | [https://bigmeme.xyz/](https://bigmeme.xyz/)                 | [https://x.com/BIGcryptomeme](https://x.com/BIGcryptomeme)     |
 | Kimbo ($KIMBO)         | [https://www.kimboavax.com/](https://www.kimboavax.com/)     | [https://x.com/KimboAvax](https://x.com/KimboAvax)             |
@@ -138,18 +144,18 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 | Husky ($HUSKY)         | [https://www.husky.space/](https://www.husky.space/)         | [https://x.com/AvaxHusky](https://x.com/AvaxHusky)             |
 | Bensi ($BENSI)         | [https://bensibox.art/](https://bensibox.art/)               | [https://x.com/bensibox](https://x.com/bensibox)               |
 | NumberGoUpTech ($TECH) | [https://techimproving.com/](https://techimproving.com/)     | [https://x.com/NumberGoUpTech](https://x.com/NumberGoUpTech)   |
-| Wabbit                 | [https://wabbit.meme](https://wabbit.meme)                   | [https://x.com/WABBIT\_COIN](https://x.com/WABBIT_COIN)        |
+| Wabbit ($WABBIT)       | [https://wabbit.meme](https://wabbit.meme)                   | [https://x.com/WABBIT\_COIN](https://x.com/WABBIT_COIN)        |
+| AI 404 ($ERROR)        | [https://404.dqn.red/](https://404.dqn.red/)                 | [https://x.com/dqn404](https://x.com/dqn404)                   |
 
 ### ShameFi / AttentionFi
 
-| Title          | URL                                                    | Twitter/X                                                      |
-| -------------- | ------------------------------------------------------ | -------------------------------------------------------------- |
-| KET ($KET)     | [https://www.ketboard.xyz/](https://www.ketboard.xyz/) | [https://x.com/yellowcatdao](https://x.com/yellowcatdao)       |
-| WINK ($WINK)   | [https://www.winkwall.xyz/](https://www.winkwall.xyz/) | [https://x.com/Wink\_Realm](https://x.com/Wink_Realm)          |
-| WAIFU ($WAIFU) | [https://www.weebsite.xyz/](https://www.weebsite.xyz/) | [https://x.com/ScarletWaifuDAO](https://x.com/ScarletWaifuDAO) |
-| Rest in Piss   | [https://restinpiss.xyz/](https://restinpiss.xyz/)     | [https://x.com/moneyduplos](https://x.com/moneyduplos)         |
-
-
+| Title            | URL                                                    | Twitter/X                                                      |
+| ---------------- | ------------------------------------------------------ | -------------------------------------------------------------- |
+| KET ($KET)       | [https://www.ketboard.xyz/](https://www.ketboard.xyz/) | [https://x.com/yellowcatdao](https://x.com/yellowcatdao)       |
+| WINK ($WINK)     | [https://www.winkwall.xyz/](https://www.winkwall.xyz/) | [https://x.com/Wink\_Realm](https://x.com/Wink_Realm)          |
+| WAIFU ($WAIFU)   | [https://www.weebsite.xyz/](https://www.weebsite.xyz/) | [https://x.com/ScarletWaifuDAO](https://x.com/ScarletWaifuDAO) |
+| DQN 404 ($ERROR) | [https://404.dqn.red/jeet](https://404.dqn.red/jeet)   | [https://x.com/dqn404](https://x.com/dqn404)                   |
+| Rest in Piss     | [https://restinpiss.xyz/](https://restinpiss.xyz/)     | [https://x.com/moneyduplos](https://x.com/moneyduplos)         |
 
 ### Launchpads
 
@@ -182,11 +188,9 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 | Snowscan           | [https://snowscan.xyz/](https://snowscan.xyz/)                 | [https://x.com/SnowScanHQ](https://x.com/SnowScanHQ)           |
 | Avascan            | [https://avascan.info/](https://avascan.info/)                 | [https://x.com/AvascanExplorer](https://x.com/AvascanExplorer) |
 
-### Stats, Explorers, Data, L1s, ...
+### Stats, Explorers, Data, ...
 
-<table><thead><tr><th width="194">Title</th><th>URL</th><th>Twitter/X</th></tr></thead><tbody><tr><td>Snowpeer</td><td><a href="https://snowpeer.io/">https://snowpeer.io/</a></td><td><a href="https://x.com/snowpeerio">https://x.com/snowpeerio</a></td></tr><tr><td>Avalanche Stats</td><td><a href="https://stats.avax.network/dashboard/overview/">https://stats.avax.network/dashboard/overview/</a></td><td><a href="https://x.com/avax">https://x.com/avax</a></td></tr><tr><td>L1 Beat</td><td><a href="https://l1beat.io/">https://l1beat.io/</a></td><td><a href="https://x.com/l1beat_io">https://x.com/l1beat_io</a></td></tr><tr><td>Frosty Metrics</td><td><a href="https://frostymetrics.com/">https://frostymetrics.com/</a></td><td><a href="https://x.com/frostymetrics">https://x.com/frostymetrics</a></td></tr><tr><td>Dune</td><td><a href="https://dune.com/">https://dune.com/</a></td><td><a href="https://x.com/Dune">https://x.com/Dune</a></td></tr></tbody></table>
-
-
+<table><thead><tr><th width="194">Title</th><th>URL</th><th>Twitter/X</th></tr></thead><tbody><tr><td>Snowpeer</td><td><a href="https://snowpeer.io/">https://snowpeer.io/</a></td><td><a href="https://x.com/snowpeerio">https://x.com/snowpeerio</a></td></tr><tr><td>Avalanche Stats</td><td><a href="https://stats.avax.network/dashboard/overview/">https://stats.avax.network/dashboard/overview/</a></td><td><a href="https://x.com/avax">https://x.com/avax</a></td></tr><tr><td>L1 Beat</td><td><a href="https://l1beat.io/">https://l1beat.io/</a></td><td><a href="https://x.com/l1beat_io">https://x.com/l1beat_io</a></td></tr><tr><td>Frosty Metrics</td><td><a href="https://frostymetrics.com/">https://frostymetrics.com/</a></td><td><a href="https://x.com/frostymetrics">https://x.com/frostymetrics</a></td></tr><tr><td>Dune</td><td><a href="https://dune.com/">https://dune.com/</a></td><td><a href="https://x.com/Dune">https://x.com/Dune</a></td></tr><tr><td>AVAXside Analytics</td><td><a href="https://flipsidecrypto.xyz/AVAXside/dashboards">https://flipsidecrypto.xyz/AVAXside/dashboards</a></td><td><a href="https://x.com/AVAXside">https://x.com/AVAXside</a></td></tr></tbody></table>
 
 ### L1 Launchpads
 
@@ -215,16 +219,21 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 
 ### Merchandise
 
-* Style Degen: [https://styledegen.com/](https://styledegen.com/)
-* Avalanche Shop: [https://shop.avax.network/](https://shop.avax.network/)
+| Title          | URL                                                      | Twitter/X                                                    |
+| -------------- | -------------------------------------------------------- | ------------------------------------------------------------ |
+| Style Degen    | [https://styledegen.com/](https://styledegen.com/)       | [https://x.com/styledegenshop](https://x.com/styledegenshop) |
+| Avalanche Shop | [https://shop.avax.network/](https://shop.avax.network/) | [https://x.com/avax](https://x.com/avax)                     |
+| Tresr          | [https://nftreasure.com/](https://nftreasure.com/)       | [https://x.com/0xTRESR](https://x.com/0xTRESR)               |
 
-### Community, Memberships, ...
+### Community, Engagements, ...
 
 * Community Hub: [https://www.avax.network/community](https://www.avax.network/community)
 * Discord: [https://discord.gg/avax](https://discord.gg/avax)
 * Guild: [https://guild.xyz/avalanche](https://guild.xyz/avalanche)
 * Galxe: [https://galxe.com/avax](https://galxe.com/avax)
 * Zealy: [https://zealy.io/cw/avax/questboard](https://zealy.io/cw/avax/questboard)
+* LootyFi: [https://looty.fi/](https://looty.fi/)
+* Earnings Bay: [https://earningsbay.com/](https://earningsbay.com/)
 
 others:
 
