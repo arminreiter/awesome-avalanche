@@ -127,6 +127,7 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 | COQ AI              | [https://ai.coq.xyz/](https://ai.coq.xyz/)               | [https://x.com/COQ\_AI](https://x.com/COQ_AI)                |
 | DQN AI 404 ($ERROR) | [https://404.dqn.red/](https://404.dqn.red/)             | [https://x.com/dqn404](https://x.com/dqn404)                 |
 | GoKite AI           | [https://gokite.ai/](https://gokite.ai/)                 | [https://x.com/GoKiteAI](https://x.com/GoKiteAI)             |
+| WOOF AI ($WOOF)     | [https://www.woofai.co/](https://www.woofai.co/)         | [https://x.com/WolvesDAO](https://x.com/WolvesDAO)           |
 
 ### Memecoins
 
@@ -153,6 +154,7 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 | ---------------- | ------------------------------------------------------ | -------------------------------------------------------------- |
 | KET ($KET)       | [https://www.ketboard.xyz/](https://www.ketboard.xyz/) | [https://x.com/yellowcatdao](https://x.com/yellowcatdao)       |
 | WINK ($WINK)     | [https://www.winkwall.xyz/](https://www.winkwall.xyz/) | [https://x.com/Wink\_Realm](https://x.com/Wink_Realm)          |
+| Blub ($BLUB)     | [https://www.blubhub.xyz/](https://www.blubhub.xyz/)   | [https://x.com/BlubBlobCoin](https://x.com/BlubBlobCoin)       |
 | WAIFU ($WAIFU)   | [https://www.weebsite.xyz/](https://www.weebsite.xyz/) | [https://x.com/ScarletWaifuDAO](https://x.com/ScarletWaifuDAO) |
 | DQN 404 ($ERROR) | [https://404.dqn.red/jeet](https://404.dqn.red/jeet)   | [https://x.com/dqn404](https://x.com/dqn404)                   |
 | Rest in Piss     | [https://restinpiss.xyz/](https://restinpiss.xyz/)     | [https://x.com/moneyduplos](https://x.com/moneyduplos)         |
