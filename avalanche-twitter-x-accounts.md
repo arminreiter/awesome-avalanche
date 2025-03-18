@@ -69,6 +69,7 @@ coverY: 0
 * [https://x.com/Leandro84D](https://x.com/Leandro84D)
 * [https://x.com/necessarygrowth](https://x.com/necessarygrowth)
 * [https://x.com/cryptoreine](https://x.com/cryptoreine)
+* [https://x.com/shelleymaeph](https://x.com/shelleymaeph)
 * [https://x.com/AvaxDAO\_](https://x.com/AvaxDAO_)
 * [https://x.com/avax](https://x.com/avax)
 * [https://x.com/AvalancheFDN](https://x.com/AvalancheFDN)
