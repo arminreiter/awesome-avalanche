@@ -39,20 +39,21 @@ layout:
 
 ### DEXs
 
-| Title            | URL                                                              | Twitter/X                                                      |
-| ---------------- | ---------------------------------------------------------------- | -------------------------------------------------------------- |
-| LFJ              | [https://lfj.gg/](https://lfj.gg/)                               | [https://x.com/LFJ\_gg](https://x.com/LFJ_gg)                  |
-| Pharaoh          | [https://pharaoh.exchange/](https://pharaoh.exchange/)           | [https://x.com/PharaohExchange](https://x.com/PharaohExchange) |
-| Dexalot          | [https://dexalot.com/](https://dexalot.com/)                     | [https://x.com/dexalot](https://x.com/dexalot)                 |
-| Pangolin         | [https://www.pangolin.exchange/](https://www.pangolin.exchange/) | [https://x.com/pangolindex](https://x.com/pangolindex)         |
-| Uniswap          | [https://app.uniswap.org/](https://app.uniswap.org/)             | [https://x.com/Uniswap](https://x.com/Uniswap)                 |
-| Enclave Markets  | [https://enclave.market](https://enclave.market)                 | [https://x.com/enclavemarkets](https://x.com/enclavemarkets)   |
-| GMX              | [https://app.gmx.io/](https://app.gmx.io/)                       | [https://x.com/GMX\_IO](https://x.com/GMX_IO)                  |
-| Steakhut Finance | [https://www.steakhut.finance/](https://www.steakhut.finance/)   | [https://x.com/steakhut\_fi](https://x.com/steakhut_fi)        |
-| Odos             | [https://app.odos.xyz/](https://app.odos.xyz/)                   | [https://x.com/odosprotocol](https://x.com/odosprotocol)       |
-| Baguette         | [https://baguette.exchange/](https://baguette.exchange/)         | [https://x.com/Baguette\_avax](https://x.com/Baguette_avax)    |
-| What Exchange    | [https://what.exchange/](https://what.exchange/)                 | [https://x.com/whatexchange](https://x.com/whatexchange)       |
-| Vector Finance   | [https://vectorfinance.io/](https://vectorfinance.io/)           | [https://x.com/vector\_fi](https://x.com/vector_fi)            |
+| Title            | URL                                                                | Twitter/X                                                       |
+| ---------------- | ------------------------------------------------------------------ | --------------------------------------------------------------- |
+| LFJ              | [https://lfj.gg/](https://lfj.gg/)                                 | [https://x.com/LFJ\_gg](https://x.com/LFJ_gg)                   |
+| Pharaoh          | [https://pharaoh.exchange/](https://pharaoh.exchange/)             | [https://x.com/PharaohExchange](https://x.com/PharaohExchange)  |
+| Dexalot          | [https://dexalot.com/](https://dexalot.com/)                       | [https://x.com/dexalot](https://x.com/dexalot)                  |
+| Pangolin         | [https://www.pangolin.exchange/](https://www.pangolin.exchange/)   | [https://x.com/pangolindex](https://x.com/pangolindex)          |
+| Uniswap          | [https://app.uniswap.org/](https://app.uniswap.org/)               | [https://x.com/Uniswap](https://x.com/Uniswap)                  |
+| Enclave Markets  | [https://enclave.market](https://enclave.market)                   | [https://x.com/enclavemarkets](https://x.com/enclavemarkets)    |
+| GMX              | [https://app.gmx.io/](https://app.gmx.io/)                         | [https://x.com/GMX\_IO](https://x.com/GMX_IO)                   |
+| Vertex           | [https://app.vertexprotocol.com/](https://app.vertexprotocol.com/) | [https://x.com/vertex\_protocol](https://x.com/vertex_protocol) |
+| Steakhut Finance | [https://www.steakhut.finance/](https://www.steakhut.finance/)     | [https://x.com/steakhut\_fi](https://x.com/steakhut_fi)         |
+| Odos             | [https://app.odos.xyz/](https://app.odos.xyz/)                     | [https://x.com/odosprotocol](https://x.com/odosprotocol)        |
+| Baguette         | [https://baguette.exchange/](https://baguette.exchange/)           | [https://x.com/Baguette\_avax](https://x.com/Baguette_avax)     |
+| What Exchange    | [https://what.exchange/](https://what.exchange/)                   | [https://x.com/whatexchange](https://x.com/whatexchange)        |
+| Vector Finance   | [https://vectorfinance.io/](https://vectorfinance.io/)             | [https://x.com/vector\_fi](https://x.com/vector_fi)             |
 
 ### DeFi
 
