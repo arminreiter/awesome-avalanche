@@ -91,6 +91,27 @@ layout:
 | -------------- | ---------------------------------------------------------------- | ------------------------------------------------------ |
 | Avalanche Card | [https://www.avalanchecard.com/](https://www.avalanchecard.com/) | [https://x.com/TheAvaxCard](https://x.com/TheAvaxCard) |
 
+### AI
+
+| Title               | URL                                                      | Twitter/X                                                    |
+| ------------------- | -------------------------------------------------------- | ------------------------------------------------------------ |
+| Delaunch/AI9000     | [https://www.delaunch.ai/](https://www.delaunch.ai/)     | [https://x.com/delaunch](https://x.com/delaunch)             |
+| Velvet AI           | [https://velvetai.xyz/](https://velvetai.xyz/)           | [https://x.com/0xVelvetai](https://x.com/0xVelvetai)         |
+| AVAX AI             | [https://avaxai.org](https://avaxai.org)                 | [https://x.com/ai\_avalanche](https://x.com/ai_avalanche)    |
+| AIGG                | [https://www.aiggagent.com/](https://www.aiggagent.com/) | [https://x.com/aigg\_agent](https://x.com/aigg_agent)        |
+| Chad Wentworth      | [https://chadwentworth.com/](https://chadwentworth.com/) | [https://x.com/chadwentworth0](https://x.com/chadwentworth0) |
+| KET ($KET)          | [https://www.ketboard.xyz/](https://www.ketboard.xyz/)   | [https://x.com/ketfromwyoming](https://x.com/ketfromwyoming) |
+| COQ AI              | [https://ai.coq.xyz/](https://ai.coq.xyz/)               | [https://x.com/COQ\_AI](https://x.com/COQ_AI)                |
+| DQN AI 404 ($ERROR) | [https://404.dqn.red/](https://404.dqn.red/)             | [https://x.com/dqn404](https://x.com/dqn404)                 |
+| GoKite AI           | [https://gokite.ai/](https://gokite.ai/)                 | [https://x.com/GoKiteAI](https://x.com/GoKiteAI)             |
+| WOOF AI ($WOOF)     | [https://www.woofai.co/](https://www.woofai.co/)         | [https://x.com/WolvesDAO](https://x.com/WolvesDAO)           |
+| Aethir              | [https://aethir.com/](https://aethir.com/)               | [https://x.com/AethirCloud](https://x.com/AethirCloud)       |
+| Halliday            | [https://halliday.xyz/](https://halliday.xyz/)           | [https://x.com/HallidayHQ](https://x.com/HallidayHQ)         |
+| HeyAnonAI           | [https://heyanon.ai/](https://heyanon.ai/)               | [https://x.com/heyanonai](https://x.com/heyanonai)           |
+| InfraBuidlAI        | [https://www.infrabuidl.ai/](https://www.infrabuidl.ai/) | [https://x.com/AvalancheFDN](https://x.com/AvalancheFDN)     |
+| Port3               | [https://port3.io/](https://port3.io/)                   | [https://x.com/Port3Network](https://x.com/Port3Network)     |
+| SphereOne           | [https://sphereone.xyz/](https://sphereone.xyz/)         | [https://x.com/sphereone\_](https://x.com/sphereone_)        |
+
 ### Culture: NFTs
 
 #### Marketplaces
@@ -134,29 +155,9 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 | Humping Unicorns                 | [https://humpingunicorns.com/](https://humpingunicorns.com/) |                                                               |
 | Mambonauts                       | [https://www.mambomakers.com/](https://www.mambomakers.com/) | [https://x.com/MamboMakers](https://x.com/MamboMakers)        |
 | Orbs (KET)                       | [https://www.ketboard.xyz/](https://www.ketboard.xyz/)       | [https://x.com/yellowcatdao](https://x.com/yellowcatdao)      |
+| xGoatz                           | [https://xgoatz.org/](https://xgoatz.org/)                   | [https://x.com/AvaxGoatz](https://x.com/AvaxGoatz)            |
 
-### AI
-
-| Title               | URL                                                      | Twitter/X                                                    |
-| ------------------- | -------------------------------------------------------- | ------------------------------------------------------------ |
-| Delaunch/AI9000     | [https://www.delaunch.ai/](https://www.delaunch.ai/)     | [https://x.com/delaunch](https://x.com/delaunch)             |
-| Velvet AI           | [https://velvetai.xyz/](https://velvetai.xyz/)           | [https://x.com/0xVelvetai](https://x.com/0xVelvetai)         |
-| AVAX AI             | [https://avaxai.org](https://avaxai.org)                 | [https://x.com/ai\_avalanche](https://x.com/ai_avalanche)    |
-| AIGG                | [https://www.aiggagent.com/](https://www.aiggagent.com/) | [https://x.com/aigg\_agent](https://x.com/aigg_agent)        |
-| Chad Wentworth      | [https://chadwentworth.com/](https://chadwentworth.com/) | [https://x.com/chadwentworth0](https://x.com/chadwentworth0) |
-| KET ($KET)          | [https://www.ketboard.xyz/](https://www.ketboard.xyz/)   | [https://x.com/ketfromwyoming](https://x.com/ketfromwyoming) |
-| COQ AI              | [https://ai.coq.xyz/](https://ai.coq.xyz/)               | [https://x.com/COQ\_AI](https://x.com/COQ_AI)                |
-| DQN AI 404 ($ERROR) | [https://404.dqn.red/](https://404.dqn.red/)             | [https://x.com/dqn404](https://x.com/dqn404)                 |
-| GoKite AI           | [https://gokite.ai/](https://gokite.ai/)                 | [https://x.com/GoKiteAI](https://x.com/GoKiteAI)             |
-| WOOF AI ($WOOF)     | [https://www.woofai.co/](https://www.woofai.co/)         | [https://x.com/WolvesDAO](https://x.com/WolvesDAO)           |
-| Aethir              | [https://aethir.com/](https://aethir.com/)               | [https://x.com/AethirCloud](https://x.com/AethirCloud)       |
-| Halliday            | [https://halliday.xyz/](https://halliday.xyz/)           | [https://x.com/HallidayHQ](https://x.com/HallidayHQ)         |
-| HeyAnonAI           | [https://heyanon.ai/](https://heyanon.ai/)               | [https://x.com/heyanonai](https://x.com/heyanonai)           |
-| InfraBuidlAI        | [https://www.infrabuidl.ai/](https://www.infrabuidl.ai/) | [https://x.com/AvalancheFDN](https://x.com/AvalancheFDN)     |
-| Port3               | [https://port3.io/](https://port3.io/)                   | [https://x.com/Port3Network](https://x.com/Port3Network)     |
-| SphereOne           | [https://sphereone.xyz/](https://sphereone.xyz/)         | [https://x.com/sphereone\_](https://x.com/sphereone_)        |
-
-### Memecoins
+### Culture: Memecoins
 
 | Title                  | URL                                                            | Twitter/X                                                      |
 | ---------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- |
@@ -234,20 +235,56 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 
 ### Gaming
 
-| Title                | URL                                                                | Twitter/X                                                       |
-| -------------------- | ------------------------------------------------------------------ | --------------------------------------------------------------- |
-| Off The Grid         | [https://gameoffthegrid.com/](https://gameoffthegrid.com/)         | [https://x.com/playoffthegrid](https://x.com/playoffthegrid)    |
-| Shatterline          | [https://www.shatterline.gg/](https://www.shatterline.gg/)         | [https://x.com/ShatterlineFPS](https://x.com/ShatterlineFPS)    |
-| Shrapnel             | [https://www.shrapnel.com/](https://www.shrapnel.com/)             | [https://x.com/playSHRAPNEL](https://x.com/playSHRAPNEL)        |
-| Pulsar               | [https://pulsar.game/](https://pulsar.game/)                       | [https://x.com/PulsarGame](https://x.com/PulsarGame)            |
-| BloodLoop            | [https://www.bloodloop.com/](https://www.bloodloop.com/)           | [https://x.com/BloodLoopGAME](https://x.com/BloodLoopGAME)      |
-| MaplestoryU          | [https://msu.io/](https://msu.io/)                                 | [https://x.com/MaplestoryU](https://x.com/MaplestoryU)          |
-| DeFi Kingdoms        | [https://defikingdoms.com/](https://defikingdoms.com/)             | [https://x.com/DeFiKingdoms](https://x.com/DeFiKingdoms)        |
-| DomiOnline           | [https://domionline.io/](https://domionline.io/)                   | [https://x.com/DomiOnline](https://x.com/DomiOnline)            |
-| Spellborne           | [https://www.spellborne.gg/](https://www.spellborne.gg/)           | [https://x.com/spellbornegame](https://x.com/spellbornegame)    |
-| The Pit              | [https://thepitgame.xyz/](https://thepitgame.xyz/)                 | [https://x.com/ThePitGame](https://x.com/ThePitGame)            |
-| Castle Of Blackwater | [https://castleofblackwater.com/](https://castleofblackwater.com/) | [https://x.com/Blackwater\_Town](https://x.com/Blackwater_Town) |
-| WolvesDAO            | [https://wolvesdao.io/](https://wolvesdao.io/)                     | [https://x.com/WolvesDAO](https://x.com/WolvesDAO)              |
+| Title                 | URL                                                                              | Twitter/X                                                       |
+| --------------------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| Off The Grid          | [https://gameoffthegrid.com/](https://gameoffthegrid.com/)                       | [https://x.com/playoffthegrid](https://x.com/playoffthegrid)    |
+| Shatterline           | [https://www.shatterline.gg/](https://www.shatterline.gg/)                       | [https://x.com/ShatterlineFPS](https://x.com/ShatterlineFPS)    |
+| Shrapnel              | [https://www.shrapnel.com/](https://www.shrapnel.com/)                           | [https://x.com/playSHRAPNEL](https://x.com/playSHRAPNEL)        |
+| Pulsar                | [https://pulsar.game/](https://pulsar.game/)                                     | [https://x.com/PulsarGame](https://x.com/PulsarGame)            |
+| BloodLoop             | [https://www.bloodloop.com/](https://www.bloodloop.com/)                         | [https://x.com/BloodLoopGAME](https://x.com/BloodLoopGAME)      |
+| MaplestoryU           | [https://msu.io/](https://msu.io/)                                               | [https://x.com/MaplestoryU](https://x.com/MaplestoryU)          |
+| DeFi Kingdoms         | [https://defikingdoms.com/](https://defikingdoms.com/)                           | [https://x.com/DeFiKingdoms](https://x.com/DeFiKingdoms)        |
+| DomiOnline            | [https://domionline.io/](https://domionline.io/)                                 | [https://x.com/DomiOnline](https://x.com/DomiOnline)            |
+| Spellborne            | [https://www.spellborne.gg/](https://www.spellborne.gg/)                         | [https://x.com/spellbornegame](https://x.com/spellbornegame)    |
+| The Pit               | [https://thepitgame.xyz/](https://thepitgame.xyz/)                               | [https://x.com/ThePitGame](https://x.com/ThePitGame)            |
+| Castle Of Blackwater  | [https://castleofblackwater.com/](https://castleofblackwater.com/)               | [https://x.com/Blackwater\_Town](https://x.com/Blackwater_Town) |
+| WolvesDAO             | [https://wolvesdao.io/](https://wolvesdao.io/)                                   | [https://x.com/WolvesDAO](https://x.com/WolvesDAO)              |
+| Animalia              | [https://animalia.games/](https://animalia.games/)                               | [https://x.com/Animalia\_games](https://x.com/Animalia_games)   |
+| Avaquid               | [https://avaquidgamess.netlify.app/](https://avaquidgamess.netlify.app/)         |                                                                 |
+| Awaken Fighting       | [https://playawaken.xyz/](https://playawaken.xyz/)                               | [https://x.com/PlayAwakenHQ](https://x.com/PlayAwakenHQ)        |
+| Beam                  | [https://onbeam.com/](https://onbeam.com/)                                       | [https://x.com/BuildOnBeam](https://x.com/BuildOnBeam)          |
+| Ceden                 | [https://www.ceden.network/](https://www.ceden.network/)                         | [https://x.com/Ceden\_Network](https://x.com/Ceden_Network)     |
+| Chronos Worlds        | [https://chronosworlds.com/](https://chronosworlds.com/)                         | [https://x.com/ChronosWorlds](https://x.com/ChronosWorlds)      |
+| Coq Fight             | [https://chikn.farm/coqfight/](https://chikn.farm/coqfight/)                     |                                                                 |
+| Cozyverse             | [https://cozyverse.xyz/](https://cozyverse.xyz/)                                 | [https://x.com/cozylabsxyz](https://x.com/cozylabsxyz)          |
+| Crystal Fall          | [https://crystalfall.com/](https://crystalfall.com/)                             | [https://x.com/playcrystalfall](https://x.com/playcrystalfall)  |
+| DCG Entertainment     | [https://dcgentertainment.com/](https://dcgentertainment.com/)                   | [https://x.com/DCGgamefi](https://x.com/DCGgamefi)              |
+| Draftables            | [https://www.draftables.io/](https://www.draftables.io/)                         | [https://x.com/draftables](https://x.com/draftables)            |
+| Elixir Games          | [https://elixir.games/](https://elixir.games/)                                   | [https://x.com/Elixir\_Games](https://x.com/Elixir_Games)       |
+| Forgotten Playland    | [https://www.forgottenplayland.com/](https://www.forgottenplayland.com/)         | [https://x.com/ForgotPlayland](https://x.com/ForgotPlayland)    |
+| Funtico               | [https://about.funtico.com/](https://about.funtico.com/)                         | [https://x.com/Funtico\_com](https://x.com/Funtico_com)         |
+| Gamestarter           | [https://gamestarter.com/en](https://gamestarter.com/en)                         | [https://x.com/gamestarter](https://x.com/gamestarter)          |
+| Ginger Joy Games      | [https://www.gingerjoy.gs/](https://www.gingerjoy.gs/)                           | [https://x.com/gingerjoygames](https://x.com/gingerjoygames)    |
+| Gold Fever            | [https://goldfever.io/](https://goldfever.io/)                                   | [https://x.com/goldfevergame](https://x.com/goldfevergame)      |
+| Heroes of NFT         | [https://www.heroesofnft.com/](https://www.heroesofnft.com/)                     | [https://x.com/heroesofnft](https://x.com/heroesofnft)          |
+| Resella               | [https://www.konami.com/games/resella/](https://www.konami.com/games/resella/)   |                                                                 |
+| Legends of Aurum      | [https://aurumdraconis.dragoncrypto.io/](https://aurumdraconis.dragoncrypto.io/) | [https://x.com/DCGgamefi](https://x.com/DCGgamefi)              |
+| McVerse               | [https://mcverse.app/](https://mcverse.app/)                                     | [https://x.com/TheMCVerse](https://x.com/TheMCVerse)            |
+| Metados               | [https://metados.com/](https://metados.com/)                                     | [https://x.com/MetaDOS](https://x.com/MetaDOS)                  |
+| Metaops               | [https://metaopsgaming.com/](https://metaopsgaming.com/)                         | [https://x.com/MetaOpsGaming](https://x.com/MetaOpsGaming)      |
+| Mirai Labs            | [https://mirailabs.co/](https://mirailabs.co/)                                   | [https://x.com/TheMiraiLabs](https://x.com/TheMiraiLabs)        |
+| Solo Leveling         | [https://sololeveling.space/](https://sololeveling.space/)                       | [https://x.com/own\_protocol](https://x.com/own_protocol)       |
+| Playa3ull Games       | [https://playa3ull.games/](https://playa3ull.games/)                             | [https://x.com/PLAYA3ULL\_GAMES](https://x.com/PLAYA3ULL_GAMES) |
+| Plyr Network          | [https://plyr.network/](https://plyr.network/)                                   | [https://x.com/OnPlyr](https://x.com/OnPlyr)                    |
+| Portal Fantasy        | [https://portalfantasy.io/](https://portalfantasy.io/)                           |                                                                 |
+| Providence            | [https://playprovidence.io/](https://playprovidence.io/)                         | [https://x.com/playprovidence](https://x.com/playprovidence)    |
+| Raini Studio          | [https://www.raini.io/](https://www.raini.io/)                                   | [https://x.com/raini\_studios/](https://x.com/raini_studios/)   |
+| Rune Seeker           | [https://www.runeseeker.com/](https://www.runeseeker.com/)                       | [https://x.com/RuneSeekerRUNES](https://x.com/RuneSeekerRUNES)  |
+| Star Mech             | [https://starmech.io/](https://starmech.io/)                                     | [https://x.com/StarMech\_io](https://x.com/StarMech_io)         |
+| WarpDAO               | [https://warpdao.io/](https://warpdao.io/)                                       | [https://x.com/WARPDAO](https://x.com/WARPDAO)                  |
+| Eclipse Chain         | [https://eclipsechain.org/](https://eclipsechain.org/)                           | [https://x.com/eclipse\_L1](https://x.com/eclipse_L1)           |
+| Lightning Forge Games | [https://lightningforge.games/](https://lightningforge.games/)                   | [https://x.com/LFG\_GTFO](https://x.com/LFG_GTFO)               |
+| Turf GG               | [https://turf.gg/](https://turf.gg/)                                             | [https://x.com/turfGG\_](https://x.com/turfGG_)                 |
 
 ### Merchandise
 
@@ -280,7 +317,7 @@ others:
 
 see: [Avalanche Twitter/X Accounts](avalanche-twitter-x-accounts.md)
 
-### Education / Learn
+### Education / Learn / News
 
 * Builders Hub: [https://build.avax.network/](https://build.avax.network/)
 * Avalanche Academy: [https://build.avax.network/academy](https://build.avax.network/academy)
@@ -293,6 +330,8 @@ see: [Avalanche Twitter/X Accounts](avalanche-twitter-x-accounts.md)
 * Avalanche Developers: [https://www.avax.network/developers](https://www.avax.network/developers)
 * Avalanche Summit II recordings: [https://www.youtube.com/playlist?list=PLRHl-ulWK4-HfaHjnKsI1X55x1o\_WdClN](https://www.youtube.com/playlist?list=PLRHl-ulWK4-HfaHjnKsI1X55x1o_WdClN)
 * Core Education: [https://core.app/discover/education/](https://core.app/discover/education/)
+* Alphaday: [https://app.alphaday.com/b/avalanche/](https://app.alphaday.com/b/avalanche/)
+* Dexcheck AI: [https://dexcheck.ai/info](https://dexcheck.ai/info)
 
 ### Websites
 
