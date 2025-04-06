@@ -85,7 +85,7 @@ layout:
 | -------------- | ---------------------------------------------------------------- | ------------------------------------------------------ |
 | Avalanche Card | [https://www.avalanchecard.com/](https://www.avalanchecard.com/) | [https://x.com/TheAvaxCard](https://x.com/TheAvaxCard) |
 
-### NFTs
+### Culture: NFTs
 
 #### Marketplaces
 
@@ -95,25 +95,39 @@ layout:
 | Joepegs         | [https://joepegs.com/](https://joepegs.com/) | [https://x.com/joepegsnft](https://x.com/joepegsnft) |
 | OpenSea         | [https://opensea.io/](https://opensea.io/)   | [https://x.com/opensea](https://x.com/opensea)       |
 
+#### Platforms
+
+| Title        | URL                                                    | Twitter/X                                                              |
+| ------------ | ------------------------------------------------------ | ---------------------------------------------------------------------- |
+| Cur8         | [https://www.cur8.io/](https://www.cur8.io/home)       | [https://x.com/Cur8Labs](https://x.com/Cur8Labs)                       |
+| Mint Club    | [https://mint.club/](https://mint.club/)               | [https://x.com/MintClubPro](https://x.com/MintClubPro)                 |
+| Mintpad      | [https://mintpad.co/](https://mintpad.co/)             | [https://mintpad.co/](https://mintpad.co/)                             |
+| Raffllrr     | [https://www.raffllrr.xyz/](https://www.raffllrr.xyz/) | [https://x.com/raffllrr](https://x.com/raffllrr)                       |
+| Scotty Beam  | [https://scottybeam.io/](https://scottybeam.io/)       | [https://x.com/ScottyBeamIO](https://x.com/ScottyBeamIO)               |
+| Zero One Art | [https://zeroone.art/](https://zeroone.art/)           | [https://x.com/zero\_\_\_\_\_\_\_\_one](https://x.com/zero________one) |
+
 #### NFT Projects
 
 Check out the collections on salvor [https://salvor.io/](https://salvor.io/) or joepegs: [https://joepegs.com/collections](https://joepegs.com/collections)
 
 Below is a curated, subjective selection of NFTs chosen based on factors such as volume, community engagement, and overall vibes. For the most current information, we recommend checking the collections on NFT marketplaces.
 
-| Title                            | URL                                                    | Twitter/X                                                     |
-| -------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------- |
-| Dokyo                            | [https://discord.gg/dokyo](https://discord.gg/dokyo)   | [https://x.com/dokyoworld](https://x.com/dokyoworld)          |
-| Steady                           | [https://www.steadyyy.com/](https://www.steadyyy.com/) | [https://x.com/SteadyNFT\_](https://x.com/SteadyNFT_)         |
-| NoChillio                        | [https://nochill.io](https://nochill.io)               | [https://x.com/NOCHILLIONAIRE](https://x.com/NOCHILLIONAIRE)  |
-| Salvors                          | [https://salvor.io](https://salvor.io)                 | [https://x.com/salvor\_io](https://x.com/salvor_io)           |
-| Chikn                            | [https://chikn.farm/](https://chikn.farm/)             | [https://x.com/chikn\_nft](https://x.com/chikn_nft)           |
-| FerdyFrens                       |                                                        | [https://x.com/ferdyfrens](https://x.com/ferdyfrens)          |
-| Woofy                            | [https://cozyverse.xyz/](https://cozyverse.xyz/)       | [https://x.com/cozyversexyz](https://x.com/cozyversexyz)      |
-| DQN                              | [https://dqn.red/](https://dqn.red/)                   | [https://x.com/DQNorg](https://x.com/DQNorg)                  |
-| Kimbros                          | [https://kimbros.xyz/](https://kimbros.xyz/)           | [https://x.com/KimbrosNFT](https://x.com/KimbrosNFT)          |
-| Pepe Portraits                   |                                                        | [https://x.com/PePe\_Portraits](https://x.com/PePe_Portraits) |
-| The Face (1966) by Pablo Picasso | [https://bensibox.art/](https://bensibox.art/)         | [https://x.com/bensibox](https://x.com/bensibox)              |
+| Title                            | URL                                                          | Twitter/X                                                     |
+| -------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------- |
+| Dokyo                            | [https://discord.gg/dokyo](https://discord.gg/dokyo)         | [https://x.com/dokyoworld](https://x.com/dokyoworld)          |
+| Steady                           | [https://www.steadyyy.com/](https://www.steadyyy.com/)       | [https://x.com/SteadyNFT\_](https://x.com/SteadyNFT_)         |
+| NoChillio                        | [https://nochill.io](https://nochill.io)                     | [https://x.com/NOCHILLIONAIRE](https://x.com/NOCHILLIONAIRE)  |
+| Salvors                          | [https://salvor.io](https://salvor.io)                       | [https://x.com/salvor\_io](https://x.com/salvor_io)           |
+| Chikn                            | [https://chikn.farm/](https://chikn.farm/)                   | [https://x.com/chikn\_nft](https://x.com/chikn_nft)           |
+| FerdyFrens                       |                                                              | [https://x.com/ferdyfrens](https://x.com/ferdyfrens)          |
+| Woofy                            | [https://cozyverse.xyz/](https://cozyverse.xyz/)             | [https://x.com/cozyversexyz](https://x.com/cozyversexyz)      |
+| DQN                              | [https://dqn.red/](https://dqn.red/)                         | [https://x.com/DQNorg](https://x.com/DQNorg)                  |
+| Kimbros                          | [https://kimbros.xyz/](https://kimbros.xyz/)                 | [https://x.com/KimbrosNFT](https://x.com/KimbrosNFT)          |
+| Pepe Portraits                   |                                                              | [https://x.com/PePe\_Portraits](https://x.com/PePe_Portraits) |
+| The Face (1966) by Pablo Picasso | [https://bensibox.art/](https://bensibox.art/)               | [https://x.com/bensibox](https://x.com/bensibox)              |
+| Humping Unicorns                 | [https://humpingunicorns.com/](https://humpingunicorns.com/) |                                                               |
+| Mambonauts                       | [https://www.mambomakers.com/](https://www.mambomakers.com/) | [https://x.com/MamboMakers](https://x.com/MamboMakers)        |
+| Orbs (KET)                       | [https://www.ketboard.xyz/](https://www.ketboard.xyz/)       | [https://x.com/yellowcatdao](https://x.com/yellowcatdao)      |
 
 ### AI
 
@@ -129,25 +143,33 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 | DQN AI 404 ($ERROR) | [https://404.dqn.red/](https://404.dqn.red/)             | [https://x.com/dqn404](https://x.com/dqn404)                 |
 | GoKite AI           | [https://gokite.ai/](https://gokite.ai/)                 | [https://x.com/GoKiteAI](https://x.com/GoKiteAI)             |
 | WOOF AI ($WOOF)     | [https://www.woofai.co/](https://www.woofai.co/)         | [https://x.com/WolvesDAO](https://x.com/WolvesDAO)           |
+| Aethir              | [https://aethir.com/](https://aethir.com/)               | [https://x.com/AethirCloud](https://x.com/AethirCloud)       |
+| Halliday            | [https://halliday.xyz/](https://halliday.xyz/)           | [https://x.com/HallidayHQ](https://x.com/HallidayHQ)         |
+| HeyAnonAI           | [https://heyanon.ai/](https://heyanon.ai/)               | [https://x.com/heyanonai](https://x.com/heyanonai)           |
+| InfraBuidlAI        | [https://www.infrabuidl.ai/](https://www.infrabuidl.ai/) | [https://x.com/AvalancheFDN](https://x.com/AvalancheFDN)     |
+| Port3               | [https://port3.io/](https://port3.io/)                   | [https://x.com/Port3Network](https://x.com/Port3Network)     |
+| SphereOne           | [https://sphereone.xyz/](https://sphereone.xyz/)         | [https://x.com/sphereone\_](https://x.com/sphereone_)        |
 
 ### Memecoins
 
-| Title                  | URL                                                          | Twitter/X                                                      |
-| ---------------------- | ------------------------------------------------------------ | -------------------------------------------------------------- |
-| KET ($KET)             | [https://www.ketboard.xyz/](https://www.ketboard.xyz/)       | [https://x.com/yellowcatdao](https://x.com/yellowcatdao)       |
-| WINK ($WINK)           | [https://www.winkwall.xyz/](https://www.winkwall.xyz/)       | [https://x.com/Wink\_Realm](https://x.com/Wink_Realm)          |
-| Coq Inu ($COQ)         | [https://coqinu.com/](https://coqinu.com/)                   | [https://x.com/CoqInuAvax](https://x.com/CoqInuAvax)           |
-| NOCHILL ($NOCHILL)     | [https://nochill.io/](https://nochill.io/)                   | [https://x.com/nochillavax](https://x.com/nochillavax)         |
-| Blub ($BLUB)           | [https://www.blubtheblob.com/](https://www.blubtheblob.com/) | [https://x.com/BlubBlobCoin](https://x.com/BlubBlobCoin)       |
-| WAIFU ($WAIFU)         | [https://www.weebsite.xyz/](https://www.weebsite.xyz/)       | [https://x.com/ScarletWaifuDAO](https://x.com/ScarletWaifuDAO) |
-| Big ($BIG)             | [https://bigmeme.xyz/](https://bigmeme.xyz/)                 | [https://x.com/BIGcryptomeme](https://x.com/BIGcryptomeme)     |
-| Kimbo ($KIMBO)         | [https://www.kimboavax.com/](https://www.kimboavax.com/)     | [https://x.com/KimboAvax](https://x.com/KimboAvax)             |
-| Big Red ($Td)          | [https://thebigredcrypto.com/](https://thebigredcrypto.com/) | [https://x.com/BigRed\_TD](https://x.com/BigRed_TD)            |
-| Husky ($HUSKY)         | [https://www.husky.space/](https://www.husky.space/)         | [https://x.com/AvaxHusky](https://x.com/AvaxHusky)             |
-| Bensi ($BENSI)         | [https://bensibox.art/](https://bensibox.art/)               | [https://x.com/bensibox](https://x.com/bensibox)               |
-| NumberGoUpTech ($TECH) | [https://techimproving.com/](https://techimproving.com/)     | [https://x.com/NumberGoUpTech](https://x.com/NumberGoUpTech)   |
-| Wabbit ($WABBIT)       | [https://wabbit.meme](https://wabbit.meme)                   | [https://x.com/WABBIT\_COIN](https://x.com/WABBIT_COIN)        |
-| AI 404 ($ERROR)        | [https://404.dqn.red/](https://404.dqn.red/)                 | [https://x.com/dqn404](https://x.com/dqn404)                   |
+| Title                  | URL                                                            | Twitter/X                                                      |
+| ---------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- |
+| KET ($KET)             | [https://www.ketboard.xyz/](https://www.ketboard.xyz/)         | [https://x.com/yellowcatdao](https://x.com/yellowcatdao)       |
+| WINK ($WINK)           | [https://www.winkwall.xyz/](https://www.winkwall.xyz/)         | [https://x.com/Wink\_Realm](https://x.com/Wink_Realm)          |
+| Coq Inu ($COQ)         | [https://coqinu.com/](https://coqinu.com/)                     | [https://x.com/CoqInuAvax](https://x.com/CoqInuAvax)           |
+| NOCHILL ($NOCHILL)     | [https://nochill.io/](https://nochill.io/)                     | [https://x.com/nochillavax](https://x.com/nochillavax)         |
+| Blub ($BLUB)           | [https://www.blubtheblob.com/](https://www.blubtheblob.com/)   | [https://x.com/BlubBlobCoin](https://x.com/BlubBlobCoin)       |
+| WAIFU ($WAIFU)         | [https://www.weebsite.xyz/](https://www.weebsite.xyz/)         | [https://x.com/ScarletWaifuDAO](https://x.com/ScarletWaifuDAO) |
+| Big ($BIG)             | [https://bigmeme.xyz/](https://bigmeme.xyz/)                   | [https://x.com/BIGcryptomeme](https://x.com/BIGcryptomeme)     |
+| Kimbo ($KIMBO)         | [https://www.kimboavax.com/](https://www.kimboavax.com/)       | [https://x.com/KimboAvax](https://x.com/KimboAvax)             |
+| Big Red ($Td)          | [https://thebigredcrypto.com/](https://thebigredcrypto.com/)   | [https://x.com/BigRed\_TD](https://x.com/BigRed_TD)            |
+| Husky ($HUSKY)         | [https://www.husky.space/](https://www.husky.space/)           | [https://x.com/AvaxHusky](https://x.com/AvaxHusky)             |
+| Bensi ($BENSI)         | [https://bensibox.art/](https://bensibox.art/)                 | [https://x.com/bensibox](https://x.com/bensibox)               |
+| NumberGoUpTech ($TECH) | [https://techimproving.com/](https://techimproving.com/)       | [https://x.com/NumberGoUpTech](https://x.com/NumberGoUpTech)   |
+| Wabbit ($WABBIT)       | [https://wabbit.meme](https://wabbit.meme)                     | [https://x.com/WABBIT\_COIN](https://x.com/WABBIT_COIN)        |
+| AI 404 ($ERROR)        | [https://404.dqn.red/](https://404.dqn.red/)                   | [https://x.com/dqn404](https://x.com/dqn404)                   |
+| Booty ($BOOTY)         | [https://linktr.ee/bootyonavax](https://linktr.ee/bootyonavax) | [https://x.com/BootyAvax](https://x.com/BootyAvax)             |
+|                        |                                                                |                                                                |
 
 ### ShameFi / AttentionFi
 
@@ -181,6 +203,7 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 | EarningsBay    | [https://earningsbay.com/](https://earningsbay.com/)     | [https://x.com/Earningsbay\_](https://x.com/Earningsbay_)  |
 | Juicy          | [https://enjoyjuicy.com/](https://enjoyjuicy.com/)       | [https://x.com/enjoyjuicy/](https://x.com/enjoyjuicy/)     |
 | ChatNet        | [https://chatnet.fun/](https://chatnet.fun/)             | [https://x.com/chatnetdotfun](https://x.com/chatnetdotfun) |
+| FerdyFish      | [https://www.ferdyflip.xyz/](https://www.ferdyflip.xyz/) | [https://x.com/ferdyfishh](https://x.com/ferdyfishh)       |
 
 ### Block Explorer
 
