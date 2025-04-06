@@ -91,6 +91,46 @@ layout:
 | -------------- | ---------------------------------------------------------------- | ------------------------------------------------------ |
 | Avalanche Card | [https://www.avalanchecard.com/](https://www.avalanchecard.com/) | [https://x.com/TheAvaxCard](https://x.com/TheAvaxCard) |
 
+### Institutional / Capital
+
+| Title                | URL                                                                                                                                                                                                                                                                                                                      |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Avalaunch            | [https://avalaunch.app/](https://avalaunch.app/)                                                                                                                                                                                                                                                                         |
+| BlackRock            | [https://www.avax.network/blog/blackrock-launches-digital-liquidity-fund-buidl-on-avalanche-via-securitize](https://www.avax.network/blog/blackrock-launches-digital-liquidity-fund-buidl-on-avalanche-via-securitize)                                                                                                   |
+| Citibank - Evergreen | [https://www.avax.network/blog/citi-fx-solution-avalanche](https://www.avax.network/blog/citi-fx-solution-avalanche)                                                                                                                                                                                                     |
+| Cumberland - Spruce  | [https://www.avax.network/blog/financial-institutions-join-avalanche-evergreen-subnet-spruce-to-drive-on-chain-finance-innovation](https://www.avax.network/blog/financial-institutions-join-avalanche-evergreen-subnet-spruce-to-drive-on-chain-finance-innovation)                                                     |
+| Franklin Templeton   | [https://www.avax.network/blog/franklin-templeton-launches-tokenized-money-market-fund-benji-avalanche](https://www.avax.network/blog/franklin-templeton-launches-tokenized-money-market-fund-benji-avalanche)                                                                                                           |
+| Intain - Evergreen   | [https://intainft.com/](https://intainft.com/)                                                                                                                                                                                                                                                                           |
+| Inversion Capital    | [o](https://x.com/inversion_cap)[http](https://x.com/inversion_cap)[s://x.com/inversion\_cap](https://x.com/inversion_cap)                                                                                                                                                                                               |
+| Kinexys - JP Morgan  | [https://www.jpmorgan.com/kinexys/index](https://www.jpmorgan.com/kinexys/index)                                                                                                                                                                                                                                         |
+| ParaFi Capital       | [https://www.avax.network/blog/parafi-tokenizes-fund-on-securitize-platform-with-avalanche](https://www.avax.network/blog/parafi-tokenizes-fund-on-securitize-platform-with-avalanche)                                                                                                                                   |
+| Pressman Film        | [https://www.avax.network/blog/legendary-pressman-film-leverages-republic-investment-platform-and-avalanche-network-to-transform-independent-film-financing](https://www.avax.network/blog/legendary-pressman-film-leverages-republic-investment-platform-and-avalanche-network-to-transform-independent-film-financing) |
+| Reflexivity Research | [https://www.reflexivityresearch.com/](https://www.reflexivityresearch.com/)                                                                                                                                                                                                                                             |
+| Republic             | [https://republic.com/](https://republic.com/)                                                                                                                                                                                                                                                                           |
+| T Rowe Price         | [https://www.avax.network/blog/financial-institutions-join-avalanche-evergreen-subnet-spruce-to-drive-on-chain-finance-innovation](https://www.avax.network/blog/financial-institutions-join-avalanche-evergreen-subnet-spruce-to-drive-on-chain-finance-innovation)                                                     |
+| Wellington Wealth    | [https://www.avax.network/blog/financial-institutions-join-avalanche-evergreen-subnet-spruce-to-drive-on-chain-finance-innovation](https://www.avax.network/blog/financial-institutions-join-avalanche-evergreen-subnet-spruce-to-drive-on-chain-finance-innovation)                                                     |
+| Wisdom Tree          | [https://www.avax.network/blog/financial-institutions-join-avalanche-evergreen-subnet-spruce-to-drive-on-chain-finance-innovation](https://www.avax.network/blog/financial-institutions-join-avalanche-evergreen-subnet-spruce-to-drive-on-chain-finance-innovation)                                                     |
+| STC Bahrain          | [https://www.avax.network/blog/stc-bahrain-and-avalanche-forge-partnership-to-drive-web3-progress-in-the-middle-east](https://www.avax.network/blog/stc-bahrain-and-avalanche-forge-partnership-to-drive-web3-progress-in-the-middle-east)                                                                               |
+
+### RWA
+
+| Title                                   | URL                                                                                                                                                                                                                                      | Twitter/X                                                       |
+| --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| Avalanche Vista                         | [https://www.avax.network/blog/avalanche-foundation-vista-asset-tokenization](https://www.avax.network/blog/avalanche-foundation-vista-asset-tokenization)                                                                               | [https://x.com/avax](https://x.com/avax)                        |
+| Avant Protocol                          | [https://www.avantprotocol.com/](https://www.avantprotocol.com/)                                                                                                                                                                         | [https://x.com/avantprotocol](https://x.com/avantprotocol)      |
+| Blockticity                             | [https://www.blockticity.io/](https://www.blockticity.io/)                                                                                                                                                                               | [https://x.com/blockticity](https://x.com/blockticity)          |
+| Clearpool                               | [https://clearpool.finance/](https://clearpool.finance/)                                                                                                                                                                                 | [https://x.com/ClearpoolFin](https://x.com/ClearpoolFin)        |
+| Lod3                                    | [https://lod3.fi/](https://lod3.fi/)                                                                                                                                                                                                     | [https://x.com/LODE\_one](https://x.com/LODE_one)               |
+| Oasis Pro - Tokenized Wine              | [https://www.oasispromarkets.com/offerings/](https://www.oasispromarkets.com/offerings/)                                                                                                                                                 |                                                                 |
+| OpenTrade                               | [https://www.opentrade.io/](https://www.opentrade.io/)                                                                                                                                                                                   | [https://x.com/opentrade\_io](https://x.com/opentrade_io)       |
+| Oxhead Alpha / California DMV           | [https://www.avax.network/blog/california-dmv-makes-history-digitizes-42-million-car-titles-on-avalanche-blockchain](https://www.avax.network/blog/california-dmv-makes-history-digitizes-42-million-car-titles-on-avalanche-blockchain) |                                                                 |
+| Securitize                              | [https://securitize.io/](https://securitize.io/)                                                                                                                                                                                         | [https://x.com/Securitize](https://x.com/Securitize)            |
+| Suntory - Tokenized Alcoholic Beverages | [https://www.avax.network/blog/suntory-group-to-launch-tokenized-premium-malts-beer-on-avalanche-blockchain](https://www.avax.network/blog/suntory-group-to-launch-tokenized-premium-malts-beer-on-avalanche-blockchain)                 | [https://x.com/SuntoryGlobal](https://x.com/SuntoryGlobal)      |
+| Jiritsu Network                         | [https://www.jiritsu.network/](https://www.jiritsu.network/)                                                                                                                                                                             | [https://x.com/Jiritsu\_Network](https://x.com/Jiritsu_Network) |
+| EmGemX - Tokenized Emeralds             | [https://www.emgemx.com/](https://www.emgemx.com/)                                                                                                                                                                                       | [https://x.com/EmGemXofficial](https://x.com/EmGemXofficial)    |
+
+
+
 ### AI
 
 | Title               | URL                                                      | Twitter/X                                                    |
@@ -204,12 +244,10 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 
 | Title          | URL                                                      | Twitter/X                                                  |
 | -------------- | -------------------------------------------------------- | ---------------------------------------------------------- |
-| Arena          | [https://arena.social](https://arena.social)             | [https://x.com/TheArenaApp](https://x.com/TheArenaApp)     |
 | Frosty Metrics | [https://frostymetrics.com/](https://frostymetrics.com/) | [https://x.com/frostymetrics](https://x.com/frostymetrics) |
 | AVVY Domains   | [https://avvy.domains/](https://avvy.domains/)           | [https://x.com/avvydomains](https://x.com/avvydomains)     |
 | EarningsBay    | [https://earningsbay.com/](https://earningsbay.com/)     | [https://x.com/Earningsbay\_](https://x.com/Earningsbay_)  |
 | Juicy          | [https://enjoyjuicy.com/](https://enjoyjuicy.com/)       | [https://x.com/enjoyjuicy/](https://x.com/enjoyjuicy/)     |
-| ChatNet        | [https://chatnet.fun/](https://chatnet.fun/)             | [https://x.com/chatnetdotfun](https://x.com/chatnetdotfun) |
 | FerdyFish      | [https://www.ferdyflip.xyz/](https://www.ferdyflip.xyz/) | [https://x.com/ferdyfishh](https://x.com/ferdyfishh)       |
 
 ### Block Explorer
@@ -293,6 +331,19 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 | Style Degen    | [https://styledegen.com/](https://styledegen.com/)       | [https://x.com/styledegenshop](https://x.com/styledegenshop) |
 | Avalanche Shop | [https://shop.avax.network/](https://shop.avax.network/) | [https://x.com/avax](https://x.com/avax)                     |
 | Tresr          | [https://nftreasure.com/](https://nftreasure.com/)       | [https://x.com/0xTRESR](https://x.com/0xTRESR)               |
+
+### SocialFi / Networking
+
+| Title     | URL                                                | Twitter/X                                                  |
+| --------- | -------------------------------------------------- | ---------------------------------------------------------- |
+| Chatnet   | [https://chatnet.fun/](https://chatnet.fun/)       | [https://x.com/chatnetdotfun](https://x.com/chatnetdotfun) |
+| DeceX     | [https://decex.app/](https://decex.app/)           | [https://x.com/decexcorp](https://x.com/decexcorp)         |
+| GroupFi   | [https://groupfi.ai/](https://groupfi.ai/)         | [https://x.com/groupfi\_ai](https://x.com/groupfi_ai)      |
+| Hyve      | [https://hyve.works/](https://hyve.works/)         | [https://x.com/join\_hyve](https://x.com/join_hyve)        |
+| MeWe      | [https://mewe.com/](https://mewe.com/)             | [https://x.com/mewe](https://x.com/mewe)                   |
+| The Arena | [https://arena.social/](https://arena.social/home) | [https://x.com/TheArenaApp](https://x.com/TheArenaApp)     |
+
+
 
 ### Community, Engagements, ...
 
