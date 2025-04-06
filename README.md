@@ -54,30 +54,36 @@ layout:
 | Baguette         | [https://baguette.exchange/](https://baguette.exchange/)           | [https://x.com/Baguette\_avax](https://x.com/Baguette_avax)     |
 | What Exchange    | [https://what.exchange/](https://what.exchange/)                   | [https://x.com/whatexchange](https://x.com/whatexchange)        |
 | Vector Finance   | [https://vectorfinance.io/](https://vectorfinance.io/)             | [https://x.com/vector\_fi](https://x.com/vector_fi)             |
+| Wombat           | [https://www.wombat.exchange/](https://www.wombat.exchange/)       | [https://x.com/WombatExchange](https://x.com/WombatExchange)    |
 
 ### DeFi
 
-| Title          | URL                                                            | Twitter/X                                                     |
-| -------------- | -------------------------------------------------------------- | ------------------------------------------------------------- |
-| YieldYak       | [https://yieldyak.com/](https://yieldyak.com/)                 | [https://x.com/yieldyak\_](https://x.com/yieldyak_)           |
-| StableJack     | [https://www.stablejack.xyz/](https://www.stablejack.xyz/)     | [https://x.com/StableJack\_xyz](https://x.com/StableJack_xyz) |
-| AAVE           | [https://aave.com/](https://aave.com/)                         | [https://x.com/aave](https://x.com/aave)                      |
-| DeltaPrime     | [https://deltaprime.io/](https://deltaprime.io/)               | [https://x.com/DeltaPrimeDefi](https://x.com/DeltaPrimeDefi)  |
-| ColonyLabs     | [https://www.colonylab.io/](https://www.colonylab.io/)         | [https://x.com/Colonylab](https://x.com/Colonylab)            |
-| Suzaku         | [https://www.suzaku.network/](https://www.suzaku.network/)     | [https://x.com/SuzakuNetwork](https://x.com/SuzakuNetwork)    |
-| Benqi          | [https://benqi.fi/](https://benqi.fi/)                         | [https://x.com/BenqiFinance](https://x.com/BenqiFinance)      |
-| Avalaunch      | [https://avalaunch.app/](https://avalaunch.app/)               | [https://x.com/AvalaunchApp](https://x.com/AvalaunchApp)      |
-| GoGoPool       | [https://app.gogopool.com/](https://app.gogopool.com/)         | [https://x.com/GoGoPool\_](https://x.com/GoGoPool_)           |
-| Woofi          | [https://woofi.com/](https://woofi.com/)                       | [https://x.com/\_WOOFi](https://x.com/_WOOFi)                 |
-| Snowball       | [https://app.snowball.network/](https://app.snowball.network/) | [https://x.com/snowballdefi](https://x.com/snowballdefi)      |
-| Avant Protocol | [https://avantprotocol.com/](https://avantprotocol.com/)       | [https://x.com/avantprotocol](https://x.com/avantprotocol)    |
-| FWX Finance    | [https://app.fwx.finance/43114](https://app.fwx.finance/43114) | [https://x.com/fwxfinance](https://x.com/fwxfinance)          |
-| Chance Markets | [https://app.chance.markets/](https://app.chance.markets/)     | [https://x.com/chancemarkets](https://x.com/chancemarkets)    |
-| Folks Finance  | [https://xapp.folks.finance/](https://xapp.folks.finance/)     | [https://x.com/folksfinance](https://x.com/folksfinance)      |
-| Cian           | [https://dapp.cian.app/](https://dapp.cian.app/)               | [https://x.com/CIAN\_protocol](https://x.com/CIAN_protocol)   |
-| SeaFI          | [https://seafi.app](https://seafi.app)                         | [https://x.com/SeaFi\_vaults](https://x.com/SeaFi_vaults)     |
-| Gyroscope      | [https://app.gyro.finance/](https://app.gyro.finance/)         | [https://x.com/gyrostable/](https://x.com/gyrostable/)        |
-| Upshift        | [https://avax.upshift.finance/](https://avax.upshift.finance/) | [https://x.com/upshift\_fi](https://x.com/upshift_fi)         |
+| Title          | URL                                                                                          | Twitter/X                                                     |
+| -------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| YieldYak       | [https://yieldyak.com/](https://yieldyak.com/)                                               | [https://x.com/yieldyak\_](https://x.com/yieldyak_)           |
+| StableJack     | [https://www.stablejack.xyz/](https://www.stablejack.xyz/)                                   | [https://x.com/StableJack\_xyz](https://x.com/StableJack_xyz) |
+| AAVE           | [https://aave.com/](https://aave.com/)                                                       | [https://x.com/aave](https://x.com/aave)                      |
+| DeltaPrime     | [https://deltaprime.io/](https://deltaprime.io/)                                             | [https://x.com/DeltaPrimeDefi](https://x.com/DeltaPrimeDefi)  |
+| ColonyLabs     | [https://www.colonylab.io/](https://www.colonylab.io/)                                       | [https://x.com/Colonylab](https://x.com/Colonylab)            |
+| Suzaku         | [https://www.suzaku.network/](https://www.suzaku.network/)                                   | [https://x.com/SuzakuNetwork](https://x.com/SuzakuNetwork)    |
+| Benqi          | [https://benqi.fi/](https://benqi.fi/)                                                       | [https://x.com/BenqiFinance](https://x.com/BenqiFinance)      |
+| Avalaunch      | [https://avalaunch.app/](https://avalaunch.app/)                                             | [https://x.com/AvalaunchApp](https://x.com/AvalaunchApp)      |
+| GoGoPool       | [https://app.gogopool.com/](https://app.gogopool.com/)                                       | [https://x.com/GoGoPool\_](https://x.com/GoGoPool_)           |
+| Woofi          | [https://woofi.com/](https://woofi.com/)                                                     | [https://x.com/\_WOOFi](https://x.com/_WOOFi)                 |
+| Snowball       | [https://app.snowball.network/](https://app.snowball.network/)                               | [https://x.com/snowballdefi](https://x.com/snowballdefi)      |
+| Avant Protocol | [https://avantprotocol.com/](https://avantprotocol.com/)                                     | [https://x.com/avantprotocol](https://x.com/avantprotocol)    |
+| FWX Finance    | [https://app.fwx.finance/43114](https://app.fwx.finance/43114)                               | [https://x.com/fwxfinance](https://x.com/fwxfinance)          |
+| Chance Markets | [https://app.chance.markets/](https://app.chance.markets/)                                   | [https://x.com/chancemarkets](https://x.com/chancemarkets)    |
+| Folks Finance  | [https://xapp.folks.finance/](https://xapp.folks.finance/)                                   | [https://x.com/folksfinance](https://x.com/folksfinance)      |
+| Cian           | [https://dapp.cian.app/](https://dapp.cian.app/)                                             | [https://x.com/CIAN\_protocol](https://x.com/CIAN_protocol)   |
+| SeaFI          | [https://seafi.app](https://seafi.app)                                                       | [https://x.com/SeaFi\_vaults](https://x.com/SeaFi_vaults)     |
+| Gyroscope      | [https://app.gyro.finance/](https://app.gyro.finance/)                                       | [https://x.com/gyrostable/](https://x.com/gyrostable/)        |
+| Upshift        | [https://avax.upshift.finance/](https://avax.upshift.finance/)                               | [https://x.com/upshift\_fi](https://x.com/upshift_fi)         |
+| Agora          | [https://www.agora.finance/](https://www.agora.finance/)                                     | [https://x.com/withAUSD](https://x.com/withAUSD)              |
+| Apex           | [https://apexdefi.xyz/](https://apexdefi.xyz/)                                               | [https://x.com/apex314\_defi](https://x.com/apex314_defi)     |
+| Re             | [https://re.xyz/](https://re.xyz/)                                                           | [https://x.com/re](https://x.com/re)                          |
+| ShapeShift     | [https://shapeshift.com/](https://shapeshift.com/)                                           | [https://x.com/ShapeShift](https://x.com/ShapeShift)          |
+| Euler          | [https://app.euler.finance/?network=avalanche](https://app.euler.finance/?network=avalanche) | [https://x.com/eulerfinance](https://x.com/eulerfinance)      |
 
 ### TradFi
 
