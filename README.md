@@ -249,6 +249,7 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | BitNote (Password Manager)       | [https://bitnote.xyz/](https://bitnote.xyz/)                                                                                                                         | [https://x.com/BitNote\_xyz](https://x.com/BitNote_xyz)      |
 | Disgo (Loyalty)                  | [https://www.disgoapp.io/](https://www.disgoapp.io/)                                                                                                                 | [https://x.com/thedisgo](https://x.com/thedisgo)             |
+| FerdyFlip (Casino)               | [https://www.ferdyflip.xyz/](https://www.ferdyflip.xyz/)                                                                                                             | [https://x.com/ferdyfishh](https://x.com/ferdyfishh)         |
 | Homium (Home Equity Loans)       | [https://www.avax.network/blog/homium-issues-first-home-equity-loans-on-avalanche](https://www.avax.network/blog/homium-issues-first-home-equity-loans-on-avalanche) | [https://x.com/homium](https://x.com/homium)                 |
 | Juicy (Adult Entertainment)      | [https://enjoyjuicy.com/](https://enjoyjuicy.com/)                                                                                                                   | [https://x.com/enjoyjuicy/](https://x.com/enjoyjuicy/)       |
 | Legitimate (Consumer Engagement) | [https://www.legitimate.tech/](https://www.legitimate.tech/)                                                                                                         | [https://x.com/legitimatetech](https://x.com/legitimatetech) |
@@ -261,16 +262,45 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 | TYB (Loyalty)                    | [https://www.tyb.xyz/](https://www.tyb.xyz/)                                                                                                                         | [https://x.com/TYBXYZ](https://x.com/TYBXYZ)                 |
 | Uptop (Loyalty)                  | [https://www.uptop.xyz/](https://www.uptop.xyz/)                                                                                                                     | [https://x.com/uptop\_xyz](https://x.com/uptop_xyz)          |
 
-### other DApps
+### Infrastructure
 
-| Title          | URL                                                      | Twitter/X                                                  |
-| -------------- | -------------------------------------------------------- | ---------------------------------------------------------- |
-| Frosty Metrics | [https://frostymetrics.com/](https://frostymetrics.com/) | [https://x.com/frostymetrics](https://x.com/frostymetrics) |
-| AVVY Domains   | [https://avvy.domains/](https://avvy.domains/)           | [https://x.com/avvydomains](https://x.com/avvydomains)     |
-| EarningsBay    | [https://earningsbay.com/](https://earningsbay.com/)     | [https://x.com/Earningsbay\_](https://x.com/Earningsbay_)  |
-| FerdyFish      | [https://www.ferdyflip.xyz/](https://www.ferdyflip.xyz/) | [https://x.com/ferdyfishh](https://x.com/ferdyfishh)       |
+| Title                                         | URL                                                          | Twitter/X                                                      |
+| --------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------------- |
+| 3thix (Payments)                              | [https://3thix.com/](https://3thix.com/)                     | [https://x.com/the3thix](https://x.com/the3thix)               |
+| AIOZ (DePIN)                                  | [https://aioz.network/](https://aioz.network/)               | [https://x.com/AIOZNetwork](https://x.com/AIOZNetwork)         |
+| api3 (Oracles)                                | [https://api3.org/](https://api3.org/)                       | [https://x.com/api3dao](https://x.com/api3dao)                 |
+| Arweave (Data Storage)                        | [https://arweave.org/](https://arweave.org/)                 |                                                                |
+| Ash (L1s, Validators, and more)               | [https://ash.center/](https://ash.center/)                   | [https://x.com/ash\_avax](https://x.com/ash_avax)              |
+| Avacloud (L1s, Validators, APIs, ...)         | [https://www.avacloud.io/](https://www.avacloud.io/)         | [https://x.com/AvaCloud](https://x.com/AvaCloud)               |
+| AVVY Domains (.avax)                          | [https://avvy.domains/](https://avvy.domains/)               | [https://x.com/avvydomains](https://x.com/avvydomains)         |
+| Axelar (cross-chain/interoperability)         | [https://www.axelar.network/](https://www.axelar.network/)   | [https://x.com/axelar](https://x.com/axelar)                   |
+| Benqi (Liquid Staking)                        | [https://benqi.fi/](https://benqi.fi/)                       | [https://x.com/BenqiFinance](https://x.com/BenqiFinance)       |
+| Chainlink (Oracle)                            | [https://chain.link/](https://chain.link/)                   | [https://x.com/chainlink](https://x.com/chainlink)             |
+| Chainlink CCIP (cross-chain/interoperability) | [https://docs.chain.link/ccip](https://docs.chain.link/ccip) | [https://x.com/chainlink](https://x.com/chainlink)             |
+| Forward Protocol (L1s, Validators)            | [https://forwardprotocol.io/](https://forwardprotocol.io/)   | [https://x.com/ForwardProtocol](https://x.com/ForwardProtocol) |
+| Gogopool (L1s, Validators, Liquid Staking)    | [https://www.gogopool.com/](https://www.gogopool.com/)       | [https://x.com/GoGoPool\_](https://x.com/GoGoPool_)            |
+| Kurtosis (Dev Tools)                          | [https://kurtosis.com/](https://kurtosis.com/)               | [https://x.com/KurtosisTech](https://x.com/KurtosisTech)       |
+| LayerZero (cross-chain/interoperability)      | [https://layerzero.network/](https://layerzero.network/)     | [https://x.com/layerzero\_core](https://x.com/layerzero_core)  |
+| Mobula (Data Indexing)                        | [https://mobula.io/](https://mobula.io/)                     | [https://x.com/mobulaio](https://x.com/mobulaio)               |
+| NodeKit (L1s)                                 | [https://www.nodekit.xyz/](https://www.nodekit.xyz/)         | [https://x.com/nodekitorg](https://x.com/nodekitorg)           |
+| Pakt World (DApps)                            | [https://pakt.world/](https://pakt.world/)                   | [https://x.com/PaktWorld](https://x.com/PaktWorld)             |
+| Secure3 (Security)                            | [https://secure3.io/en](https://secure3.io/en)               | [https://x.com/secure3io](https://x.com/secure3io)             |
+| Stardust (Game Development)                   | [https://www.stardust.gg/](https://www.stardust.gg/)         |                                                                |
+| StraitsX (Stablecoin)                         | [https://www.straitsx.com/](https://www.straitsx.com/en)     | [https://x.com/straitsx](https://x.com/straitsx)               |
+| Stripe (onramp)                               | [https://stripe.com/](https://stripe.com/)                   | [https://x.com/stripe](https://x.com/stripe)                   |
+| Suzaku (L1s, restaking)                       | [https://www.suzaku.network/](https://www.suzaku.network/)   | [https://x.com/SuzakuNetwork](https://x.com/SuzakuNetwork)     |
+| SwissBorg (Exchange)                          | [https://swissborg.com/](https://swissborg.com/)             | [https://x.com/swissborg](https://x.com/swissborg)             |
+| The Graph (Data Tools)                        | [https://thegraph.com/](https://thegraph.com/)               | [https://x.com/graphprotocol](https://x.com/graphprotocol)     |
+| Thirdweb (Dev Tools)                          | [https://thirdweb.com/](https://thirdweb.com/)               | [https://x.com/thirdweb](https://x.com/thirdweb)               |
+| Union Labs (cross-chain/interoperability)     | [https://union.build/](https://union.build/)                 | [https://x.com/union\_build](https://x.com/union_build)        |
+| Uplink (DePIN)                                | [https://www.uplink.xyz/](https://www.uplink.xyz/)           | [https://x.com/uplink\_xyz](https://x.com/uplink_xyz)          |
+| Venly (Abstraction)                           | [https://www.venly.io/](https://www.venly.io/)               | [https://x.com/Venly\_io](https://x.com/Venly_io)              |
+| Vialabs (cross-chain/interoperability)        | [https://vialabs.io/](https://vialabs.io/)                   | [https://x.com/VIA\_Labs](https://x.com/VIA_Labs)              |
+| Vottun (Dev Tools)                            | [https://vottun.com/](https://vottun.com/)                   | [https://x.com/vottun](https://x.com/vottun)                   |
+| Wormwhole (cross-chain/interoperability)      | [https://wormhole.com/](https://wormhole.com/)               | [https://x.com/wormhole](https://x.com/wormhole)               |
+| Zeroway (bridge)                              | [https://zeroway.io/](https://zeroway.io/)                   | [https://x.com/zeroway\_io](https://x.com/zeroway_io)          |
 
-### Block Explorer
+### Infrastructure - Block Explorer
 
 | Title              | URL                                                            | Twitter/X                                                      |
 | ------------------ | -------------------------------------------------------------- | -------------------------------------------------------------- |
@@ -279,11 +309,11 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 | Snowscan           | [https://snowscan.xyz/](https://snowscan.xyz/)                 | [https://x.com/SnowScanHQ](https://x.com/SnowScanHQ)           |
 | Avascan            | [https://avascan.info/](https://avascan.info/)                 | [https://x.com/AvascanExplorer](https://x.com/AvascanExplorer) |
 
-### Stats, Explorers, Data, ...
+### Infrastructure - Stats, Analytics, Data, ...
 
 <table><thead><tr><th width="194">Title</th><th>URL</th><th>Twitter/X</th></tr></thead><tbody><tr><td>Snowpeer</td><td><a href="https://snowpeer.io/">https://snowpeer.io/</a></td><td><a href="https://x.com/snowpeerio">https://x.com/snowpeerio</a></td></tr><tr><td>Avalanche Stats</td><td><a href="https://stats.avax.network/dashboard/overview/">https://stats.avax.network/dashboard/overview/</a></td><td><a href="https://x.com/avax">https://x.com/avax</a></td></tr><tr><td>L1 Beat</td><td><a href="https://l1beat.io/">https://l1beat.io/</a></td><td><a href="https://x.com/l1beat_io">https://x.com/l1beat_io</a></td></tr><tr><td>Frosty Metrics</td><td><a href="https://frostymetrics.com/">https://frostymetrics.com/</a></td><td><a href="https://x.com/frostymetrics">https://x.com/frostymetrics</a></td></tr><tr><td>Dune</td><td><a href="https://dune.com/">https://dune.com/</a></td><td><a href="https://x.com/Dune">https://x.com/Dune</a></td></tr><tr><td>AVAXside Analytics</td><td><a href="https://flipsidecrypto.xyz/AVAXside/dashboards">https://flipsidecrypto.xyz/AVAXside/dashboards</a></td><td><a href="https://x.com/AVAXside">https://x.com/AVAXside</a></td></tr><tr><td>Burned AVAX</td><td><a href="https://burnedavax.com/">https://burnedavax.com/</a></td><td></td></tr></tbody></table>
 
-### L1 Launchpads
+#### L1 Launchpads
 
 | Title                   | URL                                                                                          | Twitter/X                                                    |
 | ----------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
