@@ -134,24 +134,25 @@ layout:
 
 ### AI
 
-| Title               | URL                                                      | Twitter/X                                                    |
-| ------------------- | -------------------------------------------------------- | ------------------------------------------------------------ |
-| Delaunch/AI9000     | [https://www.delaunch.ai/](https://www.delaunch.ai/)     | [https://x.com/delaunch](https://x.com/delaunch)             |
-| Velvet AI           | [https://velvetai.xyz/](https://velvetai.xyz/)           | [https://x.com/0xVelvetai](https://x.com/0xVelvetai)         |
-| AVAX AI             | [https://avaxai.org](https://avaxai.org)                 | [https://x.com/ai\_avalanche](https://x.com/ai_avalanche)    |
-| AIGG                | [https://www.aiggagent.com/](https://www.aiggagent.com/) | [https://x.com/aigg\_agent](https://x.com/aigg_agent)        |
-| Chad Wentworth      | [https://chadwentworth.com/](https://chadwentworth.com/) | [https://x.com/chadwentworth0](https://x.com/chadwentworth0) |
-| KET ($KET)          | [https://www.ketboard.xyz/](https://www.ketboard.xyz/)   | [https://x.com/ketfromwyoming](https://x.com/ketfromwyoming) |
-| COQ AI              | [https://ai.coq.xyz/](https://ai.coq.xyz/)               | [https://x.com/COQ\_AI](https://x.com/COQ_AI)                |
-| DQN AI 404 ($ERROR) | [https://404.dqn.red/](https://404.dqn.red/)             | [https://x.com/dqn404](https://x.com/dqn404)                 |
-| GoKite AI           | [https://gokite.ai/](https://gokite.ai/)                 | [https://x.com/GoKiteAI](https://x.com/GoKiteAI)             |
-| WOOF AI ($WOOF)     | [https://www.woofai.co/](https://www.woofai.co/)         | [https://x.com/WolvesDAO](https://x.com/WolvesDAO)           |
-| Aethir              | [https://aethir.com/](https://aethir.com/)               | [https://x.com/AethirCloud](https://x.com/AethirCloud)       |
-| Halliday            | [https://halliday.xyz/](https://halliday.xyz/)           | [https://x.com/HallidayHQ](https://x.com/HallidayHQ)         |
-| HeyAnonAI           | [https://heyanon.ai/](https://heyanon.ai/)               | [https://x.com/heyanonai](https://x.com/heyanonai)           |
-| InfraBuidlAI        | [https://www.infrabuidl.ai/](https://www.infrabuidl.ai/) | [https://x.com/AvalancheFDN](https://x.com/AvalancheFDN)     |
-| Port3               | [https://port3.io/](https://port3.io/)                   | [https://x.com/Port3Network](https://x.com/Port3Network)     |
-| SphereOne           | [https://sphereone.xyz/](https://sphereone.xyz/)         | [https://x.com/sphereone\_](https://x.com/sphereone_)        |
+| Title                  | URL                                                      | Twitter/X                                                    |
+| ---------------------- | -------------------------------------------------------- | ------------------------------------------------------------ |
+| Delaunch/AI9000        | [https://www.delaunch.ai/](https://www.delaunch.ai/)     | [https://x.com/delaunch](https://x.com/delaunch)             |
+| Velvet AI              | [https://velvetai.xyz/](https://velvetai.xyz/)           | [https://x.com/0xVelvetai](https://x.com/0xVelvetai)         |
+| AVAX AI                | [https://avaxai.org](https://avaxai.org)                 | [https://x.com/ai\_avalanche](https://x.com/ai_avalanche)    |
+| AIGG                   | [https://www.aiggagent.com/](https://www.aiggagent.com/) | [https://x.com/aigg\_agent](https://x.com/aigg_agent)        |
+| Chad Wentworth         | [https://chadwentworth.com/](https://chadwentworth.com/) | [https://x.com/chadwentworth0](https://x.com/chadwentworth0) |
+| KET ($KET)             | [https://www.ketboard.xyz/](https://www.ketboard.xyz/)   | [https://x.com/ketfromwyoming](https://x.com/ketfromwyoming) |
+| COQ AI                 | [https://ai.coq.xyz/](https://ai.coq.xyz/)               | [https://x.com/COQ\_AI](https://x.com/COQ_AI)                |
+| DQN AI 404 ($ERROR)    | [https://404.dqn.red/](https://404.dqn.red/)             | [https://x.com/dqn404](https://x.com/dqn404)                 |
+| GoKite AI              | [https://gokite.ai/](https://gokite.ai/)                 | [https://x.com/GoKiteAI](https://x.com/GoKiteAI)             |
+| WOOF AI ($WOOF)        | [https://www.woofai.co/](https://www.woofai.co/)         | [https://x.com/WolvesDAO](https://x.com/WolvesDAO)           |
+| Aethir                 | [https://aethir.com/](https://aethir.com/)               | [https://x.com/AethirCloud](https://x.com/AethirCloud)       |
+| Halliday               | [https://halliday.xyz/](https://halliday.xyz/)           | [https://x.com/HallidayHQ](https://x.com/HallidayHQ)         |
+| HeyAnonAI              | [https://heyanon.ai/](https://heyanon.ai/)               | [https://x.com/heyanonai](https://x.com/heyanonai)           |
+| InfraBuidlAI           | [https://www.infrabuidl.ai/](https://www.infrabuidl.ai/) | [https://x.com/AvalancheFDN](https://x.com/AvalancheFDN)     |
+| Port3                  | [https://port3.io/](https://port3.io/)                   | [https://x.com/Port3Network](https://x.com/Port3Network)     |
+| SphereOne              | [https://sphereone.xyz/](https://sphereone.xyz/)         | [https://x.com/sphereone\_](https://x.com/sphereone_)        |
+| Tobi - AI Telegram Bot | [https://www.tobi.fun/](https://www.tobi.fun/)           | [https://x.com/TobiCopilot](https://x.com/TobiCopilot)       |
 
 ### Culture: NFTs
 
@@ -197,6 +198,8 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 | Mambonauts                       | [https://www.mambomakers.com/](https://www.mambomakers.com/) | [https://x.com/MamboMakers](https://x.com/MamboMakers)        |
 | Orbs (KET)                       | [https://www.ketboard.xyz/](https://www.ketboard.xyz/)       | [https://x.com/yellowcatdao](https://x.com/yellowcatdao)      |
 | xGoatz                           | [https://xgoatz.org/](https://xgoatz.org/)                   | [https://x.com/AvaxGoatz](https://x.com/AvaxGoatz)            |
+| AvaxApes                         | [https://www.apedin.org/](https://www.apedin.org/)           | [https://x.com/AvaxApesNFT](https://x.com/AvaxApesNFT)        |
+| Ferdy Fish                       | [https://www.ferdyflip.xyz/](https://www.ferdyflip.xyz/)     | [https://x.com/ferdyfishh](https://x.com/ferdyfishh)          |
 
 ### Culture: Memecoins
 
@@ -227,8 +230,7 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 | WINK ($WINK)     | [https://www.winkwall.xyz/](https://www.winkwall.xyz/) | [https://x.com/Wink\_Realm](https://x.com/Wink_Realm)          |
 | Blub ($BLUB)     | [https://www.blubhub.xyz/](https://www.blubhub.xyz/)   | [https://x.com/BlubBlobCoin](https://x.com/BlubBlobCoin)       |
 | WAIFU ($WAIFU)   | [https://www.weebsite.xyz/](https://www.weebsite.xyz/) | [https://x.com/ScarletWaifuDAO](https://x.com/ScarletWaifuDAO) |
-| DQN 404 ($ERROR) | [https://404.dqn.red/jeet](https://404.dqn.red/jeet)   | [https://x.com/dqn404](https://x.com/dqn404)                   |
-| Rest in Piss     | [https://restinpiss.xyz/](https://restinpiss.xyz/)     | [https://x.com/moneyduplos](https://x.com/moneyduplos)         |
+| DQN 404 ($ERROR) | [https://404.dqn.red/jeet](https://404.dqn.red/jeet)   | [https://x.com/dqn](https://x.com/dqn404)                      |
 
 ### Launchpads
 
@@ -241,6 +243,24 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 | Delaunch AI Agent | [https://www.delaunch.ai/](https://www.delaunch.ai/) | [https://x.com/delaunch](https://x.com/delaunch)             |
 | Pumpspace         | [https://pumpspace.io](https://pumpspace.io)         | [https://x.com/pumpspace10000](https://x.com/pumpspace10000) |
 
+### Consumer
+
+| Title                            | URL                                                                                                                                                                  | Twitter/X                                                    |
+| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| BitNote (Password Manager)       | [https://bitnote.xyz/](https://bitnote.xyz/)                                                                                                                         | [https://x.com/BitNote\_xyz](https://x.com/BitNote_xyz)      |
+| Disgo (Loyalty)                  | [https://www.disgoapp.io/](https://www.disgoapp.io/)                                                                                                                 | [https://x.com/thedisgo](https://x.com/thedisgo)             |
+| Homium (Home Equity Loans)       | [https://www.avax.network/blog/homium-issues-first-home-equity-loans-on-avalanche](https://www.avax.network/blog/homium-issues-first-home-equity-loans-on-avalanche) | [https://x.com/homium](https://x.com/homium)                 |
+| Juicy (Adult Entertainment)      | [https://enjoyjuicy.com/](https://enjoyjuicy.com/)                                                                                                                   | [https://x.com/enjoyjuicy/](https://x.com/enjoyjuicy/)       |
+| Legitimate (Consumer Engagement) | [https://www.legitimate.tech/](https://www.legitimate.tech/)                                                                                                         | [https://x.com/legitimatetech](https://x.com/legitimatetech) |
+| Levr Bet (Sports Betting)        | [https://app.levr.bet/](https://app.levr.bet/)                                                                                                                       | [https://x.com/LEVR\_bet](https://x.com/LEVR_bet)            |
+| LiveDuel (Sports Betting)        | [https://liveduel.com/](https://liveduel.com/)                                                                                                                       | [https://x.com/liveduel](https://x.com/liveduel)             |
+| Myna (Sneaker Marketplace)       | [https://myna.co/](https://myna.co/)                                                                                                                                 | [https://x.com/mynaswap](https://x.com/mynaswap)             |
+| Quboid (Loyalty)                 | [https://qubo.id/](https://qubo.id/)                                                                                                                                 | [https://x.com/Quboid\_HQ](https://x.com/Quboid_HQ)          |
+| Sports Illustrated Tickets       | [https://www.sitickets.com/](https://www.sitickets.com/)                                                                                                             | [https://x.com/si\_tickets\_](https://x.com/si_tickets_)     |
+| Tixbase (Tickets)                | [https://www.tixbase.com/](https://www.tixbase.com/)                                                                                                                 | [https://x.com/tixbase](https://x.com/tixbase)               |
+| TYB (Loyalty)                    | [https://www.tyb.xyz/](https://www.tyb.xyz/)                                                                                                                         | [https://x.com/TYBXYZ](https://x.com/TYBXYZ)                 |
+| Uptop (Loyalty)                  | [https://www.uptop.xyz/](https://www.uptop.xyz/)                                                                                                                     | [https://x.com/uptop\_xyz](https://x.com/uptop_xyz)          |
+
 ### other DApps
 
 | Title          | URL                                                      | Twitter/X                                                  |
@@ -248,7 +268,6 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 | Frosty Metrics | [https://frostymetrics.com/](https://frostymetrics.com/) | [https://x.com/frostymetrics](https://x.com/frostymetrics) |
 | AVVY Domains   | [https://avvy.domains/](https://avvy.domains/)           | [https://x.com/avvydomains](https://x.com/avvydomains)     |
 | EarningsBay    | [https://earningsbay.com/](https://earningsbay.com/)     | [https://x.com/Earningsbay\_](https://x.com/Earningsbay_)  |
-| Juicy          | [https://enjoyjuicy.com/](https://enjoyjuicy.com/)       | [https://x.com/enjoyjuicy/](https://x.com/enjoyjuicy/)     |
 | FerdyFish      | [https://www.ferdyflip.xyz/](https://www.ferdyflip.xyz/) | [https://x.com/ferdyfishh](https://x.com/ferdyfishh)       |
 
 ### Block Explorer
@@ -292,7 +311,7 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 | Avaquid               | [https://avaquidgamess.netlify.app/](https://avaquidgamess.netlify.app/)         |                                                                 |
 | Awaken Fighting       | [https://playawaken.xyz/](https://playawaken.xyz/)                               | [https://x.com/PlayAwakenHQ](https://x.com/PlayAwakenHQ)        |
 | Beam                  | [https://onbeam.com/](https://onbeam.com/)                                       | [https://x.com/BuildOnBeam](https://x.com/BuildOnBeam)          |
-| Ceden                 | [https://www.ceden.network/](https://www.ceden.network/)                         | [https://x.com/Ceden\_Network](https://x.com/Ceden_Network)     |
+| Ceden Network         | [https://www.ceden.network/](https://www.ceden.network/)                         | [https://x.com/Ceden\_Network](https://x.com/Ceden_Network)     |
 | Chronos Worlds        | [https://chronosworlds.com/](https://chronosworlds.com/)                         | [https://x.com/ChronosWorlds](https://x.com/ChronosWorlds)      |
 | Coq Fight             | [https://chikn.farm/coqfight/](https://chikn.farm/coqfight/)                     |                                                                 |
 | Cozyverse             | [https://cozyverse.xyz/](https://cozyverse.xyz/)                                 | [https://x.com/cozylabsxyz](https://x.com/cozylabsxyz)          |
@@ -305,8 +324,9 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 | Gamestarter           | [https://gamestarter.com/en](https://gamestarter.com/en)                         | [https://x.com/gamestarter](https://x.com/gamestarter)          |
 | Ginger Joy Games      | [https://www.gingerjoy.gs/](https://www.gingerjoy.gs/)                           | [https://x.com/gingerjoygames](https://x.com/gingerjoygames)    |
 | Gold Fever            | [https://goldfever.io/](https://goldfever.io/)                                   | [https://x.com/goldfevergame](https://x.com/goldfevergame)      |
+| Haunted Space         | [https://galaxylab.io/](https://galaxylab.io/)                                   | [https://x.com/HauntedSpace\_](https://x.com/HauntedSpace_)     |
 | Heroes of NFT         | [https://www.heroesofnft.com/](https://www.heroesofnft.com/)                     | [https://x.com/heroesofnft](https://x.com/heroesofnft)          |
-| Resella               | [https://www.konami.com/games/resella/](https://www.konami.com/games/resella/)   |                                                                 |
+| Konami / Resella      | [https://www.konami.com/games/resella/](https://www.konami.com/games/resella/)   |                                                                 |
 | Legends of Aurum      | [https://aurumdraconis.dragoncrypto.io/](https://aurumdraconis.dragoncrypto.io/) | [https://x.com/DCGgamefi](https://x.com/DCGgamefi)              |
 | McVerse               | [https://mcverse.app/](https://mcverse.app/)                                     | [https://x.com/TheMCVerse](https://x.com/TheMCVerse)            |
 | Metados               | [https://metados.com/](https://metados.com/)                                     | [https://x.com/MetaDOS](https://x.com/MetaDOS)                  |
@@ -335,14 +355,15 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 
 ### SocialFi / Networking
 
-| Title     | URL                                                | Twitter/X                                                  |
-| --------- | -------------------------------------------------- | ---------------------------------------------------------- |
-| Chatnet   | [https://chatnet.fun/](https://chatnet.fun/)       | [https://x.com/chatnetdotfun](https://x.com/chatnetdotfun) |
-| DeceX     | [https://decex.app/](https://decex.app/)           | [https://x.com/decexcorp](https://x.com/decexcorp)         |
-| GroupFi   | [https://groupfi.ai/](https://groupfi.ai/)         | [https://x.com/groupfi\_ai](https://x.com/groupfi_ai)      |
-| Hyve      | [https://hyve.works/](https://hyve.works/)         | [https://x.com/join\_hyve](https://x.com/join_hyve)        |
-| MeWe      | [https://mewe.com/](https://mewe.com/)             | [https://x.com/mewe](https://x.com/mewe)                   |
-| The Arena | [https://arena.social/](https://arena.social/home) | [https://x.com/TheArenaApp](https://x.com/TheArenaApp)     |
+| Title                  | URL                                                | Twitter/X                                                  |
+| ---------------------- | -------------------------------------------------- | ---------------------------------------------------------- |
+| Chatnet                | [https://chatnet.fun/](https://chatnet.fun/)       | [https://x.com/chatnetdotfun](https://x.com/chatnetdotfun) |
+| DeceX                  | [https://decex.app/](https://decex.app/)           | [https://x.com/decexcorp](https://x.com/decexcorp)         |
+| GroupFi                | [https://groupfi.ai/](https://groupfi.ai/)         | [https://x.com/groupfi\_ai](https://x.com/groupfi_ai)      |
+| Hyve                   | [https://hyve.works/](https://hyve.works/)         | [https://x.com/join\_hyve](https://x.com/join_hyve)        |
+| MeWe                   | [https://mewe.com/](https://mewe.com/)             | [https://x.com/mewe](https://x.com/mewe)                   |
+| The Arena              | [https://arena.social/](https://arena.social/home) | [https://x.com/TheArenaApp](https://x.com/TheArenaApp)     |
+| Tobi - AI Telegram Bot | [https://www.tobi.fun/](https://www.tobi.fun/)     | [https://x.com/TobiCopilot](https://x.com/TobiCopilot)     |
 
 
 
