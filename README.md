@@ -84,7 +84,7 @@ layout:
 | Re             | [https://re.xyz/](https://re.xyz/)                                                           | [https://x.com/re](https://x.com/re)                          |
 | ShapeShift     | [https://shapeshift.com/](https://shapeshift.com/)                                           | [https://x.com/ShapeShift](https://x.com/ShapeShift)          |
 | Euler          | [https://app.euler.finance/?network=avalanche](https://app.euler.finance/?network=avalanche) | [https://x.com/eulerfinance](https://x.com/eulerfinance)      |
-| Inertia        | https://inertia.social                                                                       | [https://x.com/inertia\_social](https://x.com/inertia_social) |
+| Inertia        | [https://beta.inertia.social/](https://beta.inertia.social/)                                 | [https://x.com/inertia\_social](https://x.com/inertia_social) |
 
 ### TradFi
 
