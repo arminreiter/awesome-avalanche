@@ -416,6 +416,7 @@ others:
 * Avalanche Summit: [https://www.avalanchesummit.com/](https://www.avalanchesummit.com/)
 * Team1/Ambassador Events: [https://lu.ma/user/usr-DrrXj8SDE9OLNi6](https://lu.ma/user/usr-DrrXj8SDE9OLNi6)
 * Cookout Club: [https://x.com/cookoutclubxyz](https://x.com/cookoutclubxyz) / [https://cookoutclub.xyz/](https://cookoutclub.xyz/)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ### Twitter/X accounts
 
