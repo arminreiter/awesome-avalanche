@@ -32,6 +32,7 @@ layout:
 | Metamask    | [https://metamask.io/](https://metamask.io/)         | [https://x.com/metamask](https://x.com/metamask)       |
 | Trustwallet | [https://trustwallet.com/](https://trustwallet.com/) | [https://x.com/trustwallet](https://x.com/trustwallet) |
 | Rabby       | [https://rabby.io/](https://rabby.io/)               | [https://x.com/Rabby\_io](https://x.com/Rabby_io)      |
+| Oath Wallet | [https://oathwallet.org/](https://oathwallet.org/) | [https://x.com/OathWallet](https://x.com/OathWallet) |
 
 ### Bridges
 
