@@ -277,6 +277,7 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 | AVVY Domains (.avax)                          | [https://avvy.domains/](https://avvy.domains/)               | [https://x.com/avvydomains](https://x.com/avvydomains)         |
 | Axelar (cross-chain/interoperability)         | [https://www.axelar.network/](https://www.axelar.network/)   | [https://x.com/axelar](https://x.com/axelar)                   |
 | Benqi (Liquid Staking)                        | [https://benqi.fi/](https://benqi.fi/)                       | [https://x.com/BenqiFinance](https://x.com/BenqiFinance)       |
+| BlockVectra (C-Chain RPC) | [https://blockvectra.com/en/chains/avax_mainnet/](https://blockvectra.com/en/chains/avax_mainnet/?ref=awesome-avax-1111) | |
 | Chainlink (Oracle)                            | [https://chain.link/](https://chain.link/)                   | [https://x.com/chainlink](https://x.com/chainlink)             |
 | Chainlink CCIP (cross-chain/interoperability) | [https://docs.chain.link/ccip](https://docs.chain.link/ccip) | [https://x.com/chainlink](https://x.com/chainlink)             |
 | Forward Protocol (L1s, Validators)            | [https://forwardprotocol.io/](https://forwardprotocol.io/)   | [https://x.com/ForwardProtocol](https://x.com/ForwardProtocol) |
