@@ -243,6 +243,7 @@ Below is a curated, subjective selection of NFTs chosen based on factors such as
 | Ignite            | [https://ignite.meme/](https://ignite.meme/)         | [https://x.com/ignite\_meme](https://x.com/ignite_meme)      |
 | Delaunch AI Agent | [https://www.delaunch.ai/](https://www.delaunch.ai/) | [https://x.com/delaunch](https://x.com/delaunch)             |
 | Pumpspace         | [https://pumpspace.io](https://pumpspace.io)         | [https://x.com/pumpspace10000](https://x.com/pumpspace10000) |
+| ALPHA             | [https://alphapad.xyz](https://alphapad.xyz)         | [https://x.com/alphapadxyz](https://x.com/alphapadxyz)       |
 
 ### Consumer
 
