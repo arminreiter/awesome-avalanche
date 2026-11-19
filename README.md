@@ -33,6 +33,7 @@ layout:
 | Trustwallet | [https://trustwallet.com/](https://trustwallet.com/) | [https://x.com/trustwallet](https://x.com/trustwallet) |
 | Rabby       | [https://rabby.io/](https://rabby.io/)               | [https://x.com/Rabby\_io](https://x.com/Rabby_io)      |
 | Oath Wallet | [https://oathwallet.org/](https://oathwallet.org/) | [https://x.com/OathWallet](https://x.com/OathWallet) |
+| BitTool Signer (offline iOS) | [https://bittool.com/signer/](https://bittool.com/signer/) | [https://x.com/bittoolwallet](https://x.com/bittoolwallet) |
 
 ### Bridges
 
